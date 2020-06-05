@@ -1,0 +1,4 @@
+Name	Id	Birth Date	Birth Place	Nationality	Coaching License	Preferred Formation	img
+José Morais	434	None	Lissabon	Portugal	None	None	https://tmssl.akamaized.net//bilder/spielerfotos/_1351000245.jpg?lm=0
+Do hoon Kim	49420	None	Tongyeong, Gyeongnam	Korea, South	None	None	https://tmssl.akamaized.net/images/portrait/header/default.jpg?lm=1455618221
+Yong soo Choi	19256	None	Busan	Korea, South	None	None	https://tmssl.akamaized.net//bilder/spielerfotos/_1366196641.jpg?lm=0

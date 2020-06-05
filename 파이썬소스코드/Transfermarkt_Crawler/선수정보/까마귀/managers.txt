@@ -1,0 +1,2 @@
+Name	Id	Birth Date	Birth Place	Nationality	Coaching License	Preferred Formation	img
+Quique Setién	12440	None	Santander	Spain	None	None	https://tmssl.akamaized.net/images/portrait/header/12440-1578997017.jpg?lm=1578997042

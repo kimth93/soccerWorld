@@ -1,0 +1,9 @@
+Manager Id	Team	Id	Appointed	Contract	Position	\# Matches	Points Per Match
+12440	FC Barcelona	{'131'}	19/20 (Jan 13, 2020)	expected30.06.2022	Manager	12	2.08
+12440	Real Betis Balompié	{'150'}	17/18 (Jul 1, 2017)	18/19 (Jun 30, 2019)	Manager	95	1.46
+12440	UD Las Palmas	{'472'}	15/16 (Oct 19, 2015)	16/17 (Jun 30, 2017)	Manager	78	1.23
+12440	CD Lugo	{'11000'}	09/10 (Jul 1, 2009)	14/15 (Jun 30, 2015)	Manager	173	1.36
+12440	CD Logroñés (liq.)	{'236'}	06/07 (May 30, 2007)	07/08 (Jan 15, 2008)	Manager	2	1.50
+12440	Equatorial Guinea	{'13485'}	06/07 (Jul 1, 2006)	06/07 (Jun 30, 2007)	Manager	1	0.00
+12440	Club Polideportivo Ejido	{'606'}	03/04 (Jul 1, 2003)	03/04 (Nov 17, 2003)	Manager	-	0.00
+12440	Racing Santander	{'630'}	01/02 (Oct 4, 2001)	01/02 (Jun 30, 2002)	Manager	36	1.78

@@ -1,0 +1,4 @@
+Name	Squad Id	Season	Manager	Manager Id	Income	Expend.	Titles
+Jeonbuk Hyundai Motors	6502	2019	['José Morais']	['434']	€10.80m+€8.53m	€	None
+Ulsan Hyundai	3535	2019	['Do-hoon Kim']	['49420']	€1.05m+€49Th.	€	None
+FC Seoul	6500	2019	['Yong-soo Choi']	['19256']	0	€500Th.	None

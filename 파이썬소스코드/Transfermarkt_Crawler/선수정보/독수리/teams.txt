@@ -1,0 +1,3 @@
+Name	Squad Id	Season	Manager	Manager Id	Income	Expend.	Titles
+Bayern Munich	27	2019	['Hans-Dieter Flick']	['67']	€54.00m	€143.50m	None
+Borussia Dortmund	16	2019	['Lucien Favre']	['535']	€125.50m	€148.50m	None

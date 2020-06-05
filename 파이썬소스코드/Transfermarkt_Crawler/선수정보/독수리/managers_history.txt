@@ -1,0 +1,17 @@
+Manager Id	Team	Id	Appointed	Contract	Position	\# Matches	Points Per Match
+67	Bayern Munich	{'27'}	19/20 (Nov 3, 2019)	expected30.06.2023	Manager	25	2.68
+67	Bayern Munich	{'27'}	19/20 (Jul 1, 2019)	19/20 (Nov 2, 2019)	Assistant Manager	-	0.00
+67	TSG 1899 Hoffenheim	{'533'}	17/18 (Jul 1, 2017)	17/18 (Feb 26, 2018)	Managing Director Sport	-	0.00
+67	Germany	{'3262'}	14/15 (Sep 1, 2014)	16/17 (Jan 16, 2017)	Sporting Director	-	0.00
+67	Germany	{'3262'}	06/07 (Sep 1, 2006)	14/15 (Aug 31, 2014)	Assistant Manager	-	0.00
+67	Red Bull Salzburg	{'409'}	06/07 (Jul 1, 2006)	06/07 (Aug 31, 2006)	Assistant Manager	-	0.00
+67	TSG 1899 Hoffenheim	{'533'}	00/01 (Jul 1, 2000)	05/06 (Nov 19, 2005)	Manager	195	1.59
+67	FC Bammental	{'1345'}	96/97 (Jul 1, 1996)	99/00 (Jun 30, 2000)	Manager	-	0.00
+535	Borussia Dortmund	{'16'}	18/19 (Jul 1, 2018)	expected30.06.2021	Manager	86	2.06
+535	OGC Nice	{'417'}	16/17 (Jul 1, 2016)	17/18 (Jun 30, 2018)	Manager	99	1.54
+535	Borussia Mönchengladbach	{'18'}	10/11 (Feb 14, 2011)	15/16 (Sep 20, 2015)	Manager	189	1.65
+535	Hertha BSC	{'44'}	07/08 (Jul 1, 2007)	09/10 (Sep 28, 2009)	Manager	94	1.48
+535	FC Zürich	{'260'}	03/04 (Jul 1, 2003)	06/07 (Jun 30, 2007)	Manager	166	1.87
+535	Servette FC	{'61'}	00/01 (Jul 1, 2000)	01/02 (Jun 30, 2002)	Manager	81	1.53
+535	Yverdon-Sport FC	{'322'}	96/97 (Dec 1, 1996)	99/00 (Jun 30, 2000)	Manager	47	1.21
+535	FC Echallens Région	{'1763'}	91/92 (Jul 1, 1991)	94/95 (Jun 30, 1995)	Manager	-	0.00

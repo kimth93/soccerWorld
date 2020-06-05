@@ -1,0 +1,653 @@
+Player Id	Season	Fee	Market Value	Team A	Team B	ID Team A	ID Team B
+260183	20/21	End of loan	€675Th.	Gangwon FC	Jeonbuk Motors	21459	6502
+260183	19/20	Loan	€850Th.	Jeonbuk Motors	Gangwon FC	6502	21459
+260183	19/20	€760Th.	€675Th.	Pohang Steelers	Jeonbuk Motors	311	6502
+260183	17/18	?	€450Th.	YB Funde	Pohang Steelers	8539	311
+260183	15/16	€1.50m	€500Th.	Pohang Steelers	YB Funde	311	8539
+260183	12/13	Free transfer	-	Yeungnam Uni	Pohang Steelers	41710	311
+260183	09/10	-	-	Pohang St. Yth.	Yeungnam Uni	20339	41710
+296782	19/20	€623Th.	€700Th.	Gyeongnam FC	Jeonbuk Motors	16696	6502
+296782	17/18	-	€150Th.	Without Club	Gyeongnam FC	515	16696
+296782	16/17	-	€150Th.	Avispa Fukuoka	Without Club	9597	515
+296782	14/15	Free transfer	-	Urawa Red Diamon	Avispa Fukuoka	24133	9597
+652537	19/20	€585Th.	€650Th.	FC Anyang	Jeonbuk Motors	38898	6502
+652537	18/19	draft	-	Gwangju Uni	FC Anyang	43091	38898
+652537	15/16	-	-	Anyang Yth.	Gwangju Uni	63996	43091
+175912	19/20	€300Th.	€700Th.	Sparta R.	Jeonbuk Motors	468	6502
+175912	18/19	Free transfer	€750Th.	FC Groningen	Sparta R.	202	468
+175912	17/18	€375Th.	€1.50m	KV Kortrijk	FC Groningen	601	202
+175912	17/18	End of loan	€1.50m	Aalesund	KV Kortrijk	5619	601
+175912	16/17	Loan	€1.50m	KV Kortrijk	Aalesund	601	5619
+175912	16/17	Free transfer	€2.00m	Nottm Forest	KV Kortrijk	703	601
+175912	15/16	End of loan	€2.00m	PEC Zwolle	Nottm Forest	1269	703
+175912	15/16	Loan	€500Th.	Nottm Forest	PEC Zwolle	703	1269
+175912	14/15	€600Th.	€450Th.	Excelsior	Nottm Forest	798	703
+175912	13/14	Free transfer	€200Th.	Utrecht U21	Excelsior	17596	798
+175912	12/13	End of loan	€200Th.	FC Dordrecht	Utrecht U21	1455	17596
+175912	12/13	Loan	€50Th.	Utrecht U21	FC Dordrecht	17596	1455
+175912	11/12	Free transfer	€50Th.	Volendam U21	Utrecht U21	20299	17596
+175912	10/11	-	-	Volendam U19	Volendam U21	15586	20299
+260189	21/22	End of loan	€800Th.	Sangju Sangmu	Jeonbuk Motors	6505	6502
+260189	19/20	Loan	€1.10m	Jeonbuk Motors	Sangju Sangmu	6502	6505
+260189	19/20	Loan	€1.00m	TJ Tianhai	Jeonbuk Motors	33714	6502
+260189	16/17	€10.50m	€400Th.	Al-Ahli (UAE)	TJ Quanjian	15541	33714
+260189	14/15	?	€450Th.	Jeonbuk Motors	Al-Ahli (UAE)	6502	15541
+260189	12/13	-	-	Dong-A Uni	Jeonbuk Motors	39278	6502
+260189	10/11	-	-	Jeonbuk Youth	Dong-A Uni	40870	39278
+333857	19/20	Free transfer	€300Th.	Linense-SP	Jeonbuk Motors	20132	6502
+333857	19/20	End of loan	€300Th.	Botafogo FC	Linense-SP	9030	20132
+333857	18/19	Loan	€300Th.	Linense-SP	Botafogo FC	20132	9030
+333857	18/19	End of loan	€300Th.	Novorizontino	Linense-SP	37474	20132
+333857	18/19	Loan	€300Th.	Linense-SP	Novorizontino	20132	37474
+333857	18/19	Free transfer	€300Th.	Ponte Preta	Linense-SP	1134	20132
+333857	17/18	?	€300Th.	Linense-SP	Ponte Preta	20132	1134
+333857	17/18	Free transfer	€300Th.	Goiás EC	Linense-SP	3197	20132
+333857	17/18	End of loan	€300Th.	Aparecidense-GO	Goiás EC	25209	3197
+333857	16/17	Loan	€300Th.	Goiás EC	Aparecidense-GO	3197	25209
+630166	19/20	Free transfer	-	Chung-Ang Uni	Jeonbuk Motors	39277	6502
+630166	17/18	-	-	Jeonbuk Youth	Chung-Ang Uni	40870	39277
+263835	19/20	Free transfer	€700Th.	Suwon Bluewings	Jeonbuk Motors	3301	6502
+263835	13/14	End of loan	-	Ansan Police FC	Suwon Bluewings	34998	3301
+263835	11/12	Loan	-	Suwon Bluewings	Police FC	3301	34998
+263835	10/11	-	-	Suwon Sam. Yth.	Suwon Bluewings	39287	3301
+126638	19/20	Free transfer	€1.50m	JS Suning Res.	Jeonbuk Motors	29418	6502
+126638	19/20	End of loan	€1.50m	Jeonbuk Motors	JS Suning Res.	6502	29418
+126638	18/19	Loan	€1.20m	JS Suning Res.	Jeonbuk Motors	29418	6502
+126638	18/19	End of loan	€1.20m	Jeonbuk Motors	JS Suning Res.	6502	29418
+126638	17/18	Loan	€1.20m	JS Suning Res.	Jeonbuk Motors	29418	6502
+126638	17/18	-	€1.20m	JS Suning	JS Suning Res.	22219	29418
+126638	16/17	€6.00m	€2.50m	FC Augsburg	JS Suning	167	22219
+126638	13/14	€2.00m	€850Th.	Jeju Utd.	FC Augsburg	19684	167
+126638	09/10	Free transfer	-	Chosun Uni	Jeju Utd.	41449	19684
+126638	07/08	-	-	Jeju Yth.	Chosun Uni	31182	41449
+128375	19/20	?	€1.35m	Kashiwa Reysol	Jeonbuk Motors	6632	6502
+128375	19/20	End of loan	€1.35m	Ulsan Hyundai	Kashiwa Reysol	3535	6632
+128375	18/19	Loan	€1.00m	Kashiwa Reysol	Ulsan Hyundai	6632	3535
+128375	17/18	?	€2.00m	Jeonbuk Motors	Kashiwa Reysol	6502	6632
+128375	15/16	Free transfer	€2.00m	Matsumoto Yama.	Jeonbuk Motors	25765	6502
+128375	15/16	-	€2.00m	Without Club	Matsumoto Yama.	515	25765
+128375	15/16	-	€2.00m	Wigan	Without Club	1071	515
+128375	14/15	-	€2.00m	Without Club	Wigan	515	1071
+128375	14/15	-	€2.00m	Cardiff	Without Club	603	515
+128375	12/13	€3.00m	€2.00m	Cerezo Osaka	Cardiff	1022	603
+128375	10/11	End of loan	€450Th.	Oita Trinita	Cerezo Osaka	3935	1022
+128375	09/10	Loan	€150Th.	Cerezo Osaka	Oita Trinita	1022	3935
+128375	09/10	Free transfer	-	Hongik Uni	Cerezo Osaka	26866	1022
+128375	08/09	-	-	Shingal HS	Hongik Uni	42173	26866
+221889	19/20	?	€700Th.	Al-Wasl	Jeonbuk Motors	16214	6502
+221889	19/20	End of loan	€700Th.	Muangthong Utd.	Al-Wasl	21283	16214
+221889	18/19	Loan	€850Th.	Al-Wasl	Muangthong Utd.	16214	21283
+221889	18/19	?	€850Th.	Jeju Utd.	Al-Wasl	19684	16214
+221889	10/11	Free transfer	-	Konkuk Uni	Jeju Utd.	26242	19684
+221889	06/07	-	-	Gangwon Yth.	Konkuk Uni	40865	26242
+641646	20/21	End of loan	€450Th.	Jeonbuk Motors	Pohang Steelers	6502	311
+641646	19/20	Loan	€500Th.	Pohang Steelers	Jeonbuk Motors	311	6502
+641646	18/19	-	-	Pohang St. Yth.	Pohang Steelers	20339	311
+214096	19/20	End of loan	€400Th.	Hatta Club	Al-Nasr	17195	5432
+214096	19/20	Loan	€500Th.	Al-Nasr	Hatta Club	5432	17195
+214096	19/20	End of loan	€500Th.	Jeonbuk Motors	Al-Nasr	6502	5432
+214096	19/20	Loan	€400Th.	Al-Nasr	Jeonbuk Motors	5432	6502
+214096	18/19	End of loan	€400Th.	Fujairah SC	Al-Nasr	31320	5432
+214096	18/19	Loan	€950Th.	Al-Nasr	Fujairah SC	5432	31320
+214096	18/19	?	€950Th.	Hatta Club	Al-Nasr	17195	5432
+214096	17/18	?	€750Th.	Fluminense	Hatta Club	2462	17195
+214096	16/17	End of loan	€750Th.	Hatta Club	Fluminense	17195	2462
+214096	16/17	Loan	€750Th.	Fluminense	Hatta Club	2462	17195
+214096	15/16	End of loan	€1.00m	Ferroviária	Fluminense	15882	2462
+214096	15/16	Loan	€1.00m	Fluminense	Ferroviária	2462	15882
+214096	15/16	End of loan	€1.00m	Sport Recife	Fluminense	8718	2462
+214096	14/15	Loan	€1.50m	Fluminense	Sport Recife	2462	8718
+214096	14/15	End of loan	€1.50m	Goiás EC	Fluminense	3197	2462
+214096	14/15	Loan	€1.50m	Fluminense	Goiás EC	2462	3197
+214096	14/15	End of loan	€1.50m	LA Galaxy	Fluminense	1061	2462
+214096	13/14	Loan	€1.50m	Fluminense	LA Galaxy	2462	1061
+214096	11/12	-	-	Fluminense U20	Fluminense	14702	2462
+177011	19/20	?	€800Th.	Jeonbuk Motors	Sagan Tosu	6502	22177
+177011	19/20	End of loan	€800Th.	Sagan Tosu	Jeonbuk Motors	22177	6502
+177011	19/20	Loan	€1.50m	Jeonbuk Motors	Sagan Tosu	6502	22177
+177011	17/18	?	€2.00m	Hilal	Jeonbuk Motors	1114	6502
+177011	17/18	End of loan	€2.40m	Shimizu S-Pulse	Hilal	1062	1114
+177011	16/17	Loan	€2.40m	Hilal	Shimizu S-Pulse	1114	1062
+177011	16/17	?	-	Penapolense-SP	Hilal	27475	1114
+177011	16/17	End of loan	-	Seongnam FC	Penapolense-SP	3610	27475
+177011	15/16	Loan	-	Penapolense-SP	Seongnam FC	27475	3610
+177011	15/16	End of loan	-	Pohang Steelers	Penapolense-SP	311	27475
+177011	14/15	Loan	-	Penapolense-SP	Pohang Steelers	27475	311
+177011	14/15	Free transfer	-	Santos FC	Penapolense-SP	221	27475
+177011	14/15	End of loan	-	Paraná	Santos FC	309	221
+177011	13/14	Loan	-	Santos FC	Paraná	221	309
+177011	13/14	End of loan	-	Peñarol-AM	Santos FC	32500	221
+177011	13/14	Loan	-	Santos FC	Peñarol-AM	221	32500
+177011	13/14	End of loan	-	América-MG	Santos FC	2863	221
+177011	12/13	Loan	-	Santos FC	América-MG	221	2863
+177011	12/13	End of loan	-	Boa Esporte	Santos FC	17561	221
+177011	11/12	Loan	€250Th.	Santos FC	Boa Esporte	221	17561
+177011	10/11	-	-	Santos B	Santos FC	14701	221
+292261	21/22	End of loan	€325Th.	Sangju Sangmu	Jeonbuk Motors	6505	6502
+292261	19/20	Loan	€375Th.	Jeonbuk Motors	Sangju Sangmu	6502	6505
+292261	19/20	End of loan	€375Th.	Jeju Utd.	Jeonbuk Motors	19684	6502
+292261	19/20	Loan	€400Th.	Jeonbuk Motors	Jeju Utd.	6502	19684
+292261	18/19	?	€25Th.	Pohang Steelers	Jeonbuk Motors	311	6502
+292261	17/18	Free transfer	€25Th.	Yonsei Univ.	Pohang Steelers	27039	311
+292261	14/15	-	€25Th.	Eonnam High	Yonsei Univ.	42166	27039
+292261	11/12	-	-	Gyeongnam Yth.	Eonnam High	25992	42166
+379443	19/20	End of loan	€375Th.	Incheon Utd.	Jeonbuk Motors	2996	6502
+379443	19/20	Loan	€450Th.	Jeonbuk Motors	Incheon Utd.	6502	2996
+379443	14/15	-	-	Jeonbuk Youth	Jeonbuk Motors	40870	6502
+379443	11/12	-	-	Chunnam Yth.	Jeonbuk Youth	63999	40870
+260185	19/20	?	€250Th.	Jeonbuk Motors	Bucheon FC	6502	35759
+260185	19/20	End of loan	€250Th.	Suwon FC	Jeonbuk Motors	31622	6502
+260185	18/19	Loan	€50Th.	Jeonbuk Motors	Suwon FC	6502	31622
+260185	18/19	End of loan	€50Th.	FC Anyang	Jeonbuk Motors	38898	6502
+260185	17/18	Loan	€50Th.	Jeonbuk Motors	FC Anyang	6502	38898
+260185	14/15	End of loan	€25Th.	Suwon FC	Jeonbuk Motors	31622	6502
+260185	13/14	Loan	€25Th.	Jeonbuk Motors	Suwon FC	6502	31622
+260185	13/14	End of loan	€25Th.	Daegu FC	Jeonbuk Motors	6504	6502
+260185	13/14	Loan	-	Jeonbuk Motors	Daegu FC	6502	6504
+260185	12/13	draft	-	Korea University	Jeonbuk Motors	854	6502
+181669	19/20	Free transfer	€600Th.	Jeonbuk Motors	Gangwon FC	6502	21459
+181669	19/20	End of loan	€625Th.	Asan Mugunghwa	Jeonbuk Motors	76180	6502
+181669	17/18	Loan	€400Th.	Jeonbuk Motors	Asan Mugunghwa	6502	76180
+181669	15/16	Free transfer	€500Th.	Pohang Steelers	Jeonbuk Motors	311	6502
+181669	10/11	Free transfer	-	Soongsil Uni	Pohang Steelers	24768	311
+181669	08/09	-	-	Pohang St. Yth.	Soongsil Uni	20339	24768
+426123	19/20	?	€300Th.	Jeonbuk Motors	Suwon Bluewings	6502	3301
+426123	19/20	End of loan	€300Th.	Incheon Utd.	Jeonbuk Motors	2996	6502
+426123	19/20	Loan	€100Th.	Jeonbuk Motors	Incheon Utd.	6502	2996
+426123	17/18	End of loan	€125Th.	Seoul E-Land	Jeonbuk Motors	46292	6502
+426123	16/17	Loan	-	Jeonbuk Motors	Seoul E-Land	6502	46292
+426123	15/16	Free transfer	-	Korea University	Jeonbuk Motors	854	6502
+426123	13/14	-	-	Boin High	Korea University	42163	854
+503486	19/20	Free transfer	€150Th.	Jeonbuk Motors	Jeju Utd.	6502	19684
+503486	19/20	End of loan	€150Th.	Seongnam FC	Jeonbuk Motors	3610	6502
+503486	19/20	Loan	€100Th.	Jeonbuk Motors	Seongnam FC	6502	3610
+503486	16/17	Free transfer	-	Chung-Ang Uni	Jeonbuk Motors	39277	6502
+503486	13/14	-	-	Yeongdeungpo HS	Chung-Ang Uni	46653	39277
+645848	19/20	End of loan	€150Th.	Bucheon FC	Jeonbuk Motors	35759	6502
+645848	19/20	Loan	€50Th.	Jeonbuk Motors	Bucheon FC	6502	35759
+645848	18/19	draft	-	Chung-Ang Uni	Jeonbuk Motors	39277	6502
+645848	16/17	-	-	Jeonbuk Youth	Chung-Ang Uni	40870	39277
+645848	13/14	-	-	Seongnam Yth.	Jeonbuk Youth	40882	40870
+557241	19/20	End of loan	€75Th.	Bucheon FC	Jeonbuk Motors	35759	6502
+557241	19/20	Loan	€50Th.	Jeonbuk Motors	Bucheon FC	6502	35759
+557241	17/18	Free transfer	-	Soongsil Uni	Jeonbuk Motors	24768	6502
+375226	19/20	€5.46m	€1.50m	Jeonbuk Motors	SH SIPG	6502	27190
+375226	15/16	€1.00m	-	Globo FC	Jeonbuk Motors	49067	6502
+375226	15/16	End of loan	-	Jeju Utd.	Globo FC	19684	49067
+375226	14/15	Loan fee:	-	Globo FC	Jeju Utd.	49067	19684
+375226	14/15	End of loan	-	Fortaleza	Globo FC	10870	49067
+375226	14/15	Loan	-	Globo FC	Fortaleza	49067	10870
+375226	13/14	Free transfer	-	Gurupi-TO	Globo FC	36477	49067
+375226	12/13	Free transfer	-	Ituano	Gurupi-TO	4773	36477
+152689	19/20	€5.35m	€1.75m	Jeonbuk Motors	SH Shenhua	6502	3183
+152689	15/16	€1.50m	€1.75m	Ulsan Hyundai	Jeonbuk Motors	3535	6502
+152689	08/09	draft	-	Chung-Ang Uni	Ulsan Hyundai	39277	3535
+152689	06/07	-	-	Gwacheon HS	Chung-Ang Uni	81832	39277
+402159	19/20	Free transfer	€50Th.	Jeonbuk Motors	Yeoju Citizen	6502	64836
+402159	16/17	-	-	Jeonbuk Youth	Jeonbuk Motors	40870	6502
+140205	19/20	Free transfer	€450Th.	Jeonbuk Motors	Newcastle	6502	5551
+140205	18/19	Free transfer	€500Th.	Emirates Club	Jeonbuk Motors	15542	6502
+140205	18/19	?	€500Th.	Vancouver	Emirates Club	6321	15542
+140205	16/17	?	€500Th.	Club Brugge	Vancouver	2282	6321
+140205	16/17	End of loan	€500Th.	Sydney FC	Club Brugge	8054	2282
+140205	16/17	Loan	€500Th.	Club Brugge	Sydney FC	2282	8054
+140205	15/16	€140Th.	€750Th.	SH SIPG	Club Brugge	27190	2282
+140205	14/15	End of loan	€750Th.	Sydney FC	SH SIPG	8054	27190
+140205	14/15	Loan	€500Th.	SH SIPG	Sydney FC	27190	8054
+140205	13/14	End of loan	€500Th.	Central Coast	SH East Asia	6954	27190
+140205	13/14	Loan	€400Th.	SH East Asia	Central Coast	27190	6954
+140205	13/14	€450Th.	€500Th.	Central Coast	SH East Asia	6954	27190
+140205	11/12	-	-	C. Coast U21	Central Coast	26206	6954
+140205	10/11	End of loan	-	Blacktown City	C. Coast U21	11375	26206
+140205	09/10	Loan	-	C. Coast U21	Blacktown City	26206	11375
+180590	19/20	Free transfer	€500Th.	Jeonbuk Motors	Seongnam FC	6502	3610
+180590	17/18	?	€200Th.	Gwangju FC	Jeonbuk Motors	30925	6502
+180590	17/18	End of loan	€100Th.	Asan Mugunghwa	Gwangju FC	76180	30925
+180590	16/17	Loan	€100Th.	Gwangju FC	Asan Mugunghwa	30925	76180
+180590	16/17	End of loan	€100Th.	Ansan Mugunghwa	Gwangju FC	34998	30925
+180590	15/16	Loan	€100Th.	Gwangju FC	Ansan Mugunghwa	30925	34998
+180590	10/11	draft	-	Suwon Uni	Gwangju FC	65980	30925
+180590	06/07	-	-	Yeouido HS	Suwon Uni	78321	65980
+643931	19/20	Free transfer	€50Th.	Jeonbuk Motors	Unknown	6502	75
+643931	18/19	-	-	Jeonbuk Youth	Jeonbuk Motors	40870	6502
+503487	19/20	Free transfer	€75Th.	Jeonbuk Motors	Unknown	6502	75
+503487	17/18	-	€50Th.	Jeonbuk Youth	Jeonbuk Motors	40870	6502
+225342	21/22	End of loan	€800Th.	Sangju Sangmu	Jeonbuk Motors	6505	6502
+225342	19/20	Loan	€1.00m	Jeonbuk Motors	Sangju Sangmu	6502	6505
+225342	18/19	Free transfer	€450Th.	Incheon Utd.	Jeonbuk Motors	2996	6502
+225342	16/17	-	€250Th.	Without Club	Incheon Utd.	515	2996
+225342	16/17	-	€250Th.	Djurgarden	Without Club	1044	515
+225342	15/16	?	€200Th.	Östersund	Djurgarden	9614	1044
+225342	15/16	End of loan	€200Th.	Djurgarden	Östersund	1044	9614
+225342	15/16	Loan	€150Th.	Östersund	Djurgarden	9614	1044
+225342	11/12	Free transfer	-	Nike Academy	Östersund	46863	9614
+486598	20/21	End of loan	€350Th.	FC Seoul	Jeonbuk Motors	6500	6502
+486598	19/20	Loan	€450Th.	Jeonbuk Motors	FC Seoul	6502	6500
+486598	18/19	€465Th.	€250Th.	Ulsan Hyundai	Jeonbuk Motors	3535	6502
+486598	16/17	Free transfer	-	Yonsei Univ.	Ulsan Hyundai	27039	3535
+486598	14/15	-	-	Eonnam High	Yonsei Univ.	42166	27039
+184582	20/21	End of loan	€450Th.	Pohang Steelers	Jeonbuk Motors	311	6502
+184582	19/20	Loan	€650Th.	Jeonbuk Motors	Pohang Steelers	6502	311
+184582	18/19	?	€300Th.	Gyeongnam FC	Jeonbuk Motors	16696	6502
+184582	16/17	End of loan	€150Th.	Ansan Mugunghwa	Gyeongnam FC	34998	16696
+184582	14/15	Loan	€150Th.	Gyeongnam FC	Ansan Police FC	16696	34998
+184582	10/11	Free transfer	-	Konkuk Uni	Gyeongnam FC	26242	16696
+557242	19/20	?	€50Th.	Jeonbuk Motors	Unknown	6502	75
+557242	17/18	Free transfer	-	Jeonju Uni	Jeonbuk Motors	27249	6502
+147841	19/20	-	€600Th.	Without Club	FC Seoul	515	6500
+147841	19/20	-	€900Th.	Jeonbuk Motors	Without Club	6502	515
+147841	17/18	Free transfer	€900Th.	SJZ Ever Bright	Jeonbuk Motors	35272	6502
+147841	16/17	€3.75m	€900Th.	FC Seoul	SJZ Ever Bright	6500	35272
+147841	15/16	Free transfer	-	Daejeon Citizen	FC Seoul	6499	6500
+147841	13/14	Free transfer	-	DL Shide	Daejeon Citizen	3178	6499
+147841	13/14	End of loan	-	Atlético-GO	DL Shide	15172	3178
+147841	13/14	Loan	€500Th.	DL Shide	Atlético-GO	3178	15172
+147841	13/14	End of loan	€500Th.	EC Bahia	DL Shide	10010	3178
+147841	12/13	Loan	€500Th.	DL Shide	EC Bahia	3178	10010
+147841	11/12	€2.10m	€750Th.	Fluminense	DL Shide	2462	3178
+147841	10/11	End of loan	€750Th.	Palmeiras	Fluminense	1023	2462
+147841	10/11	Loan	-	Fluminense	Palmeiras	2462	1023
+147841	10/11	End of loan	-	EC Bahia	Fluminense	10010	2462
+147841	09/10	Loan	-	Fluminense	EC Bahia	2462	10010
+147841	09/10	?	-	América-RJ	Fluminense	9138	2462
+147841	08/09	-	-	Without Club	América-RJ	515	9138
+147841	08/09	-	-	EC Bahia	Without Club	10010	515
+147841	06/07	-	-	EC Bahia B	EC Bahia	17817	10010
+90802	19/20	-	€1.00m	Jeonbuk Motors	Without Club	6502	515
+90802	16/17	End of loan	€1.25m	Ansan Mugunghwa	Jeonbuk Motors	34998	6502
+90802	14/15	Loan	€1.25m	Jeonbuk Motors	Ansan Police FC	6502	34998
+90802	14/15	?	€1.25m	Al-Jazira	Jeonbuk Motors	2524	6502
+90802	12/13	?	€1.25m	Pohang Steelers	Al-Jazira	311	2524
+90802	07/08	Free transfer	-	Hongik Uni	Pohang Steelers	26866	311
+90802	04/05	-	-	HighSchool Team	Hongik Uni	24067	26866
+250686	19/20	€1.00m	€1.50m	AZ Alkmaar	Ulsan Hyundai	1090	3535
+250686	19/20	End of loan	€1.50m	Rosenborg BK	AZ Alkmaar	195	1090
+250686	19/20	Loan	€2.00m	AZ Alkmaar	Rosenborg BK	1090	195
+250686	18/19	€2.30m	€3.50m	ADO Den Haag	AZ Alkmaar	1268	1090
+250686	17/18	Free transfer	€500Th.	Heart of Midl.	ADO Den Haag	43	1268
+250686	16/17	Free transfer	€450Th.	Litex Lovetch	Heart of Midl.	271	43
+250686	14/15	Free transfer	-	Atlético CP	Litex Lovetch	5227	271
+250686	14/15	Free transfer	-	Louletano	Atlético CP	3352	5227
+250686	13/14	-	-	Without Club	Louletano	515	3352
+250686	12/13	-	-	Atl. Baleares 	Without Club	18687	515
+250686	12/13	Free transfer	-	Antequera	Atl. Baleares 	16022	18687
+250686	11/12	Free transfer	-	Tönsberg	Antequera	1259	16022
+250686	10/11	Free transfer	-	Valerenga U19	Tönsberg	15700	1259
+677469	19/20	Free transfer	-	Shingal HS	Ulsan Hyundai	42173	3535
+163990	19/20	Free transfer	€850Th.	Jeju Utd.	Ulsan Hyundai	19684	3535
+163990	19/20	End of loan	€850Th.	Sangju Sangmu	Jeju Utd.	6505	19684
+163990	17/18	Loan	€700Th.	Jeju Utd.	Sangju Sangmu	19684	6505
+163990	17/18	Free transfer	€700Th.	YB Funde	Jeju Utd.	8539	19684
+163990	17/18	End of loan	€700Th.	Jeju Utd.	YB Funde	19684	8539
+163990	17/18	Loan	€700Th.	YB Funde	Jeju Utd.	8539	19684
+163990	15/16	€2.00m	€675Th.	Jeju Utd.	YB Funde	19684	8539
+163990	12/13	?	€1.70m	Seongnam FC	Jeju Utd.	3610	19684
+163990	11/12	€1.50m	€1.60m	Gyeongnam FC	Seongnam Ilhwa	16696	3610
+163990	09/10	Free transfer	-	Chung-Ang Uni	Gyeongnam FC	39277	16696
+163990	08/09	-	-	BooGyeong HS	Chung-Ang Uni	70962	39277
+715720	19/20	Free transfer	-	Ulsan Uni	Ulsan Hyundai	39290	3535
+715720	17/18	-	-	Ulsan Yth.	Ulsan Uni	20262	39290
+402147	19/20	Free transfer	-	Ulsan Uni	Ulsan Hyundai	39290	3535
+715958	19/20	Loan	-	Ulsan Hyundai	Chungnam Asan	3535	78388
+715958	19/20	Free transfer	-	Chung-Ang Uni	Ulsan Hyundai	39277	3535
+260171	19/20	Free transfer	€1.65m	Daegu FC	Ulsan Hyundai	6504	3535
+260171	12/13	Free transfer	-	Sun Moon Uni.	Daegu FC	51708	6504
+379438	19/20	Free transfer	€1.00m	Kashima Antlers	Ulsan Hyundai	2241	3535
+379438	18/19	?	€450Th.	Sagan Tosu	Kashima Antlers	22177	2241
+379438	17/18	?	-	Ulsan Hyundai	Sagan Tosu	3535	22177
+379438	14/15	Free transfer	-	Yonsei Univ.	Ulsan Hyundai	27039	3535
+379438	12/13	-	-	Ulsan Yth.	Yonsei Univ.	20262	27039
+630167	19/20	Free transfer	€25Th.	Yonsei Univ.	Ulsan Hyundai	27039	3535
+630169	19/20	Loan	-	Ulsan Hyundai	Chungnam Asan	3535	78388
+630169	19/20	Free transfer	-	Dongguk Uni	Ulsan Hyundai	24043	3535
+676363	19/20	Free transfer	-	Ulsan Uni	Ulsan Hyundai	39290	3535
+721726	19/20	Free transfer	-	Dankook Univ	Ulsan Hyundai	27107	3535
+180579	19/20	Free transfer	€900Th.	Sounders FC		Ulsan Hyundai	9636	3535
+180579	17/18	Free transfer	€600Th.	SH Shenhua	Sounders FC		3183	9636
+180579	15/16	€5.40m	€750Th.	Jeonbuk Motors	SH Shenhua	6502	3183
+180579	13/14	?	€150Th.	Daegu FC	Jeonbuk Motors	6504	6502
+180579	12/13	End of loan	€150Th.	Al Sailiya	Daegu FC	4630	6504
+180579	12/13	Loan	€100Th.	Daegu FC	Al Sailiya	6504	4630
+180579	10/11	Free transfer	-	Hongik Uni	Daegu FC	26866	6504
+180579	07/08	-	-	BuGyeong HS (B)	Hongik Uni	71022	26866
+639414	19/20	Free transfer	-	Ulsan Uni	Ulsan Hyundai	39290	3535
+676396	19/20	Free transfer	-	SungkyunkwanUni	Ulsan Hyundai	9156	3535
+676396	16/17	-	-	Ulsan Yth.	SungkyunkwanUni	20262	9156
+137669	19/20	?	€750Th.	Perth Glory	Ulsan Hyundai	970	3535
+137669	18/19	?	€400Th.	HNK Rijeka	Perth Glory	144	970
+137669	17/18	End of loan	€400Th.	NK Olimpija	HNK Rijeka	4772	144
+137669	17/18	Loan	€400Th.	HNK Rijeka	NK Olimpija	144	4772
+137669	17/18	?	€500Th.	Huddersfield	HNK Rijeka	1110	144
+137669	16/17	End of loan	€500Th.	FC Groningen	Huddersfield	202	1110
+137669	16/17	Loan	€500Th.	Huddersfield	FC Groningen	1110	202
+137669	15/16	Free transfer	€500Th.	West Brom	Huddersfield	984	1110
+137669	14/15	?	€400Th.	Heracles Almelo	West Brom	1304	984
+137669	11/12	-	€300Th.	Without Club	Heracles Almelo	515	1304
+137669	11/12	-	€300Th.	Paços Ferreira	Without Club	2995	515
+137669	10/11	End of loan	€300Th.	Covilhã	Paços Ferreira	10140	2995
+137669	10/11	Loan	€100Th.	Paços Ferreira	Covilhã	2995	10140
+137669	09/10	-	-	Paços F. U19	Paços Ferreira	15565	2995
+137669	09/10	?	-	Hume City FC	Paços F. U19	15511	15565
+81801	19/20	?	€600Th.	VfL Bochum	Ulsan Hyundai	80	3535
+81801	18/19	-	€1.50m	Without Club	VfL Bochum	515	80
+81801	18/19	-	€1.50m	Crystal Palace	Without Club	873	515
+81801	14/15	?	€3.00m	Bolton	Crystal Palace	355	873
+81801	09/10	€2.50m	€2.00m	FC Seoul	Bolton	6500	355
+81801	03/04	Free transfer	-	HighSchool Team	FC Seoul	24067	6500
+92076	19/20	?	€1.20m	Ulsan Hyundai	Kashiwa Reysol	3535	6632
+92076	19/20	?	€1.20m	Vissel Kobe	Ulsan Hyundai	3958	3535
+92076	15/16	€1.25m	€1.00m	Ulsan Hyundai	Vissel Kobe	3535	3958
+92076	07/08	-	-	Ulsan Yth.	Ulsan Hyundai	20262	3535
+284105	19/20	?	€250Th.	Incheon Utd.	Ulsan Hyundai	2996	3535
+284105	18/19	Free transfer	€125Th.	Gangneung City	Incheon Utd.	34970	2996
+284105	17/18	?	-	Mokpo City	Gangneung City	33104	34970
+284105	15/16	Free transfer	-	V-V. Nagasaki	Mokpo City	23581	33104
+284105	14/15	End of loan	-	Grulla Morioka	V-V. Nagasaki	16005	23581
+284105	14/15	Loan	-	V-V. Nagasaki	Grulla Morioka	23581	16005
+284105	13/14	Free transfer	-	SungkyunkwanUni	V-V. Nagasaki	9156	23581
+284105	11/12	-	-	Shingal HS	SungkyunkwanUni	42173	9156
+558084	19/20	€272Th.	-	Ulsan Hyundai	Din. Zagreb II	3535	44796
+558084	19/20	End of loan	-	Din. Zagreb II	Ulsan Hyundai	44796	3535
+558084	18/19	-	-	Din. Zagreb U19	Din. Zagreb II	9641	44796
+558084	17/18	Loan	-	Ulsan Hyundai	Din. Zagreb U19	3535	9641
+558084	17/18	-	-	Ulsan Yth.	Ulsan Hyundai	20262	3535
+645847	19/20	Loan	€175Th.	Ulsan Hyundai	Seoul E-Land	3535	46292
+645847	19/20	End of loan	€175Th.	Daejeon Hana C.	Ulsan Hyundai	6499	3535
+645847	19/20	Loan	€50Th.	Ulsan Hyundai	Daejeon Hana C.	3535	6499
+645847	18/19	Free transfer	-	HighSchool Team	Ulsan Hyundai	24067	3535
+639119	19/20	-	-	Ulsan Yth.	Ulsan Hyundai	20262	3535
+132533	19/20	?	€1.00m	Ulsan Hyundai	Jeonnam Dragons	3535	6503
+132533	19/20	End of loan	€1.00m	V-V. Nagasaki	Ulsan Hyundai	23581	3535
+132533	18/19	Loan	€1.40m	Ulsan Hyundai	V-V. Nagasaki	3535	23581
+132533	16/17	Free transfer	€500Th.	Jeonbuk Motors	Ulsan Hyundai	6502	3535
+132533	15/16	?	€500Th.	Jeonnam Dragons	Jeonbuk Motors	6503	6502
+132533	10/11	-	-	Chunnam Yth.	Chunnam Dragons	63999	6503
+402167	20/21	End of loan	€400Th.	Sangju Sangmu	Ulsan Hyundai	6505	3535
+402167	19/20	Loan	€300Th.	Ulsan Hyundai	Sangju Sangmu	3535	6505
+402167	19/20	End of loan	€300Th.	Asan Mugunghwa	Ulsan Hyundai	76180	3535
+402167	18/19	Loan	€50Th.	Ulsan Hyundai	Asan Mugunghwa	3535	76180
+402167	17/18	-	-	Ulsan Yth.	Ulsan Hyundai	20262	3535
+429730	19/20	?	€500Th.	Ulsan Hyundai	Suwon FC	3535	31622
+429730	19/20	End of loan	€500Th.	Jeonnam Dragons	Ulsan Hyundai	6503	3535
+429730	18/19	Loan	€50Th.	Ulsan Hyundai	Jeonnam Dragons	3535	6503
+429730	15/16	-	-	Ulsan Yth.	Ulsan Hyundai	20262	3535
+402142	20/21	End of loan	€300Th.	Seoul E-Land	Ulsan Hyundai	46292	3535
+402142	19/20	Loan	€300Th.	Ulsan Hyundai	Seoul E-Land	3535	46292
+402142	19/20	End of loan	€300Th.	V-V. Nagasaki	Ulsan Hyundai	23581	3535
+402142	18/19	Loan	€50Th.	Ulsan Hyundai	V-V. Nagasaki	3535	23581
+402142	17/18	Free transfer	-	Soongsil Uni	Ulsan Hyundai	24768	3535
+402142	16/17	-	-	Ulsan Yth.	Soongsil Uni	20262	24768
+507535	19/20	Free transfer	€100Th.	Ulsan Hyundai	Suwon FC	3535	31622
+507535	19/20	End of loan	€100Th.	Incheon Utd.	Ulsan Hyundai	2996	3535
+507535	19/20	Loan	€75Th.	Ulsan Hyundai	Incheon Utd.	3535	2996
+507535	16/17	-	-	Ulsan Uni	Ulsan Hyundai	39290	3535
+507535	12/13	-	-	Ulsan Yth.	Ulsan Uni	20262	39290
+561403	19/20	€272Th.	€50Th.	Ulsan Hyundai	Din. Zagreb II	3535	44796
+561403	19/20	End of loan	€50Th.	Din. Zagreb II	Ulsan Hyundai	44796	3535
+561403	18/19	-	-	Din. Zagreb U19	Din. Zagreb II	9641	44796
+561403	17/18	Loan	-	Ulsan Hyundai	Din. Zagreb U19	3535	9641
+561403	17/18	-	-	Ulsan Yth.	Ulsan Hyundai	20262	3535
+90720	19/20	-	€1.00m	Without Club	Ulsan Hyundai	515	3535
+90720	19/20	-	€1.00m	Slaven Belupo	Without Club	2362	515
+90720	19/20	Free transfer	€1.00m	Al Rayyan	Slaven Belupo	3229	2362
+90720	15/16	€990Th.	€750Th.	FC Seoul	Al Rayyan	6500	3229
+90720	02/03	Free transfer	-	HighSchool Team	Anyang LG Cheeta	24067	6500
+639240	20/21	End of loan	€100Th.	W. Bremen II	Ulsan Hyundai	87	3535
+639240	20/21	Loan	€100Th.	Ulsan Hyundai	W. Bremen II	3535	87
+639240	19/20	End of loan	€100Th.	W. Bremen U19	Ulsan Hyundai	2491	3535
+639240	19/20	Loan fee:	€25Th.	Ulsan Hyundai	W. Bremen U19	3535	2491
+639240	19/20	-	€25Th.	Ulsan Yth.	Ulsan Hyundai	20262	3535
+428634	19/20	?	€150Th.	Ulsan Hyundai	Gimhae FC	3535	35761
+428634	19/20	End of loan	€150Th.	Gyeongju KHNP	Ulsan Hyundai	32051	3535
+428634	18/19	Loan	€100Th.	Ulsan Hyundai	Gyeongju KHNP	3535	32051
+428634	18/19	End of loan	€100Th.	Gwangju FC	Ulsan Hyundai	30925	3535
+428634	18/19	Loan	€100Th.	Ulsan Hyundai	Gwangju FC	3535	30925
+428634	17/18	End of loan	-	Gimhae FC	Ulsan Hyundai	35761	3535
+428634	17/18	Loan	-	Ulsan Hyundai	Gimhae FC	3535	35761
+428634	16/17	End of loan	-	Seoul E-Land	Ulsan Hyundai	46292	3535
+428634	16/17	Loan	-	Ulsan Hyundai	Seoul E-Land	3535	46292
+428634	16/17	End of loan	-	Ulsan Dolphin	Ulsan Hyundai	30028	3535
+428634	16/17	Loan	-	Ulsan Hyundai	Ulsan Dolphin	3535	30028
+428634	15/16	draft	-	Dankook Univ	Ulsan Hyundai	27107	3535
+557825	19/20	?	€175Th.	Ulsan Hyundai	Hwaseong FC	3535	43177
+557825	19/20	End of loan	€175Th.	Asan Mugunghwa	Ulsan Hyundai	76180	3535
+557825	18/19	Loan	€50Th.	Ulsan Hyundai	Asan Mugunghwa	3535	76180
+557825	17/18	Free transfer	-	Ulsan Uni	Ulsan Hyundai	39290	3535
+558082	19/20	-	€175Th.	LASK	Juniors OÖ	413	935
+558082	19/20	?	€175Th.	Ulsan Hyundai	LASK	3535	413
+558082	18/19	End of loan	€175Th.	LASK	Ulsan Hyundai	413	3535
+558082	18/19	-	-	Juniors OÖ	LASK	935	413
+558082	17/18	Loan	-	Ulsan Hyundai	Juniors OÖ	3535	935
+558082	17/18	draft	-	SungkyunkwanUni	Ulsan Hyundai	9156	3535
+264082	19/20	€430Th.	€600Th.	Ulsan Hyundai	Jeju Utd.	3535	19684
+264082	18/19	Free transfer	€600Th.	Seoul E-Land	Ulsan Hyundai	46292	3535
+264082	18/19	End of loan	€600Th.	Sangju Sangmu	Seoul E-Land	6505	46292
+264082	16/17	Loan	-	Seoul E-Land	Sangju Sangmu	46292	6505
+264082	14/15	?	-	Goyang Hi FC	Seoul E-Land	39279	46292
+264082	12/13	Free transfer	-	Hanyang Univ.	Goyang Hi FC	50143	39279
+657036	19/20	Free transfer	€75Th.	Ulsan Hyundai	Daejeon KoRail	3535	43464
+657036	18/19	Free transfer	-	Kwangwoon University	Ulsan Hyundai	2710	3535
+81791	19/20	Free transfer	€500Th.	Ulsan Hyundai	Busan IPark	3535	2582
+81791	15/16	End of loan	€1.00m	Sangju Sangmu	Ulsan Hyundai	6505	3535
+81791	13/14	Loan	€1.00m	Ulsan Hyundai	Sangju Sangmu	3535	6505
+81791	10/11	?	€1.20m	Suwon Bluewings	Ulsan Hyundai	3301	3535
+81791	09/10	?	€1.20m	Jeju Utd.	Suwon Bluewings	19684	3301
+81791	08/09	?	€500Th.	Jeonbuk Motors	Jeju Utd.	6502	19684
+81791	07/08	?	-	Chunnam Dragons	Jeonbuk Motors	6503	6502
+81791	03/04	Free transfer	-	HighSchool Team	Chunnam Dragons	24067	6503
+314773	20/21	End of loan	€525Th.	Sangju Sangmu	Ulsan Hyundai	6505	3535
+314773	19/20	Loan	€650Th.	Ulsan Hyundai	Sangju Sangmu	3535	6505
+314773	14/15	End of loan	€50Th.	Albirex Niigata	Ulsan Hyundai	8344	3535
+314773	14/15	Loan	€50Th.	Ulsan Hyundai	Albirex Niigata	3535	8344
+314773	13/14	Free transfer	-	Hongik Uni	Ulsan Hyundai	26866	3535
+657035	19/20	Free transfer	€50Th.	Ulsan Hyundai	Busan IPark	3535	2582
+657035	18/19	Free transfer	-	Honam Uni	Ulsan Hyundai	70730	3535
+657035	16/17	-	-	Jeonju THS	Honam Uni	80231	70730
+657035	13/14	-	-	Jeonnam Yth.	Jeonju THS	63999	80231
+657037	19/20	Free transfer	€50Th.	Ulsan Hyundai	Hwaseong FC	3535	43177
+657037	18/19	Free transfer	-	Ulsan Uni	Ulsan Hyundai	39290	3535
+374076	20/21	End of loan	€725Th.	Sangju Sangmu	Ulsan Hyundai	6505	3535
+374076	19/20	Loan	€900Th.	Ulsan Hyundai	Sangju Sangmu	3535	6505
+374076	16/17	€385Th.	-	FC Seoul	Ulsan Hyundai	6500	3535
+374076	14/15	Free transfer	-	Konkuk Uni	FC Seoul	26242	6500
+314931	19/20	Free transfer	€275Th.	Ulsan Hyundai	Seoul E-Land	3535	46292
+314931	16/17	End of loan	€50Th.	Chungju	Ulsan Hyundai	32093	3535
+314931	15/16	Loan	€50Th.	Ulsan Hyundai	Chungju	3535	32093
+314931	15/16	End of loan	€50Th.	Gangwon FC	Ulsan Hyundai	21459	3535
+314931	14/15	Loan	€50Th.	Ulsan Hyundai	Gangwon FC	3535	21459
+314931	14/15	End of loan	€50Th.	Ulsan Dolphin	Ulsan Hyundai	30028	3535
+314931	13/14	Loan	-	Ulsan Hyundai	Ulsan Dolphin	3535	30028
+314931	13/14	draft	-	Konkuk Uni	Ulsan Hyundai	26242	3535
+657033	19/20	Free transfer	€50Th.	Ulsan Hyundai	Icheon Citizen	3535	39430
+657033	18/19	Free transfer	-	Myongji Uni	Ulsan Hyundai	26130	3535
+562948	19/20	End of loan	€200Th.	Juniors OÖ	Ulsan Hyundai	935	3535
+562948	19/20	Loan	€100Th.	Ulsan Hyundai	Juniors OÖ	3535	935
+562948	18/19	End of loan	€100Th.	Unterhaching	Ulsan Hyundai	66	3535
+562948	18/19	-	€50Th.	U'haching U19	Unterhaching	8207	66
+562948	17/18	Loan	-	Ulsan Hyundai	U'haching U19	3535	8207
+562948	17/18	-	-	Ulsan Yth.	Ulsan Hyundai	20262	3535
+429676	19/20	Loan	€100Th.	Ulsan Hyundai	Seoul E-Land	3535	46292
+429676	16/17	-	-	Ulsan Yth.	Ulsan Hyundai	20262	3535
+81792	19/20	?	€350Th.	Ulsan Hyundai	Gwangju FC	3535	30925
+81792	16/17	Free transfer	€600Th.	Jeonbuk Motors	Ulsan Hyundai	6502	3535
+81792	15/16	Free transfer	€600Th.	Kashiwa Reysol	Jeonbuk Motors	6632	6502
+81792	12/13	?	€1.00m	Busan IPark	Kashiwa Reysol	2582	6632
+81792	07/08	?	-	Daejeon Citizen	Busan I'Park	6499	2582
+81792	04/05	?	-	Ulsan Hyundai	Daejeon Citizen	3535	6499
+81792	03/04	Free transfer	-	Jeonju Uni	Ulsan Hyundai	27249	3535
+154742	19/20	?	€600Th.	Ulsan Hyundai	Gyeongnam FC	3535	16696
+154742	17/18	Free transfer	€500Th.	YB Funde	Ulsan Hyundai	8539	3535
+154742	17/18	?	€550Th.	Jeju Utd.	YB Funde	19684	8539
+154742	16/17	End of loan	€550Th.	Sangju Sangmu	Jeju Utd.	6505	19684
+154742	14/15	Loan	€550Th.	Jeju Utd.	Sangju Sangmu	19684	6505
+154742	13/14	?	€550Th.	Daegu FC	Jeju Utd.	6504	19684
+154742	09/10	draft	-	Dong-A Uni	Daegu FC	39278	6504
+144180	19/20	?	€350Th.	Ulsan Hyundai	Jeju Utd.	3535	19684
+144180	17/18	?	€225Th.	Without Club	Ulsan Hyundai	515	3535
+144180	17/18	End of loan	€375Th.	Sangju Sangmu	Without Club	6505	515
+144180	15/16	Loan	€375Th.	Without Club	Sangju Sangmu	515	6505
+144180	15/16	-	€375Th.	Daejeon Citizen	Without Club	6499	515
+144180	14/15	Free transfer	€375Th.	Kyoto Sanga	Daejeon Citizen	593	6499
+144180	12/13	Free transfer	€325Th.	Tokushima Vort.	Kyoto Sanga	17832	593
+144180	09/10	Free transfer	-	Honam Uni	Tokushima Vort.	70730	17832
+103559	19/20	End of loan	€1.25m	Ulsan Hyundai	Man City U23	3535	9265
+103559	18/19	Loan	€900Th.	Man City U23	Ulsan Hyundai	9265	3535
+103559	18/19	End of loan	€900Th.	IFK Göteborg	Man City U23	801	9265
+103559	17/18	Loan	€900Th.	Man City U23	IFK Göteborg	9265	801
+103559	17/18	Free transfer	€900Th.	NYCFC	Man City U23	40058	9265
+103559	17/18	End of loan	€900Th.	IFK Göteborg	NYCFC	801	40058
+103559	16/17	Loan	€700Th.	NYCFC	IFK Göteborg	40058	801
+103559	14/15	Free transfer	€1.40m	Rosenborg BK	NYCFC	195	40058
+103559	12/13	?	€800Th.	Stabæk Fotball	Rosenborg BK	1274	195
+103559	11/12	End of loan	€800Th.	KAA Gent	Stabæk Fotball	157	1274
+103559	11/12	Loan	€1.10m	Stabæk Fotball	KAA Gent	1274	157
+103559	08/09	-	-	Stabaek IF U19	Stabæk Fotball	17331	1274
+128375	19/20	?	€1.35m	Kashiwa Reysol	Jeonbuk Motors	6632	6502
+128375	19/20	End of loan	€1.35m	Ulsan Hyundai	Kashiwa Reysol	3535	6632
+128375	18/19	Loan	€1.00m	Kashiwa Reysol	Ulsan Hyundai	6632	3535
+128375	17/18	?	€2.00m	Jeonbuk Motors	Kashiwa Reysol	6502	6632
+128375	15/16	Free transfer	€2.00m	Matsumoto Yama.	Jeonbuk Motors	25765	6502
+128375	15/16	-	€2.00m	Without Club	Matsumoto Yama.	515	25765
+128375	15/16	-	€2.00m	Wigan	Without Club	1071	515
+128375	14/15	-	€2.00m	Without Club	Wigan	515	1071
+128375	14/15	-	€2.00m	Cardiff	Without Club	603	515
+128375	12/13	€3.00m	€2.00m	Cerezo Osaka	Cardiff	1022	603
+128375	10/11	End of loan	€450Th.	Oita Trinita	Cerezo Osaka	3935	1022
+128375	09/10	Loan	€150Th.	Cerezo Osaka	Oita Trinita	1022	3935
+128375	09/10	Free transfer	-	Hongik Uni	Cerezo Osaka	26866	1022
+128375	08/09	-	-	Shingal HS	Hongik Uni	42173	26866
+402160	19/20	€500Th.	€600Th.	Incheon Utd.	FC Seoul	2996	6500
+402160	16/17	-	-	Incheon Yth.	Incheon Utd.	40868	2996
+568632	19/20	Free transfer	-	Soongsil Uni	FC Seoul	24768	6500
+568632	17/18	-	-	FC Seoul Yth.	Soongsil Uni	20367	24768
+427550	19/20	Free transfer	€575Th.	Jeonnam Dragons	FC Seoul	6503	6500
+427550	15/16	-	-	Jeonnam Yth.	Jeonnam Dragons	63999	6503
+486598	20/21	End of loan	€350Th.	FC Seoul	Jeonbuk Motors	6500	6502
+486598	19/20	Loan	€450Th.	Jeonbuk Motors	FC Seoul	6502	6500
+486598	18/19	€465Th.	€250Th.	Ulsan Hyundai	Jeonbuk Motors	3535	6502
+486598	16/17	Free transfer	-	Yonsei Univ.	Ulsan Hyundai	27039	3535
+486598	14/15	-	-	Eonnam High	Yonsei Univ.	42166	27039
+342137	19/20	?	€200Th.	FC Seoul	Suwon FC	6500	31622
+342137	19/20	End of loan	€200Th.	Daejeon Hana C.	FC Seoul	6499	6500
+342137	19/20	Loan	€100Th.	FC Seoul	Daejeon Hana C.	6500	6499
+342137	16/17	Free transfer	-	Honam Uni	FC Seoul	70730	6500
+342137	13/14	-	-	FC Seoul Yth.	Honam Uni	20367	70730
+676391	19/20	-	-	FC Seoul Res.	FC Seoul	29187	6500
+676391	18/19	Free transfer	-	Sun Moon Uni.	FC Seoul Res.	51708	29187
+676391	15/16	-	-	FC Seoul Yth.	Sun Moon Uni.	20367	51708
+732697	19/20	-	-	FC Seoul Res.	FC Seoul	29187	6500
+732697	19/20	Free transfer	-	Kwangwoon University	FC Seoul Res.	2710	29187
+147841	19/20	-	€600Th.	Without Club	FC Seoul	515	6500
+147841	19/20	-	€900Th.	Jeonbuk Motors	Without Club	6502	515
+147841	17/18	Free transfer	€900Th.	SJZ Ever Bright	Jeonbuk Motors	35272	6502
+147841	16/17	€3.75m	€900Th.	FC Seoul	SJZ Ever Bright	6500	35272
+147841	15/16	Free transfer	-	Daejeon Citizen	FC Seoul	6499	6500
+147841	13/14	Free transfer	-	DL Shide	Daejeon Citizen	3178	6499
+147841	13/14	End of loan	-	Atlético-GO	DL Shide	15172	3178
+147841	13/14	Loan	€500Th.	DL Shide	Atlético-GO	3178	15172
+147841	13/14	End of loan	€500Th.	EC Bahia	DL Shide	10010	3178
+147841	12/13	Loan	€500Th.	DL Shide	EC Bahia	3178	10010
+147841	11/12	€2.10m	€750Th.	Fluminense	DL Shide	2462	3178
+147841	10/11	End of loan	€750Th.	Palmeiras	Fluminense	1023	2462
+147841	10/11	Loan	-	Fluminense	Palmeiras	2462	1023
+147841	10/11	End of loan	-	EC Bahia	Fluminense	10010	2462
+147841	09/10	Loan	-	Fluminense	EC Bahia	2462	10010
+147841	09/10	?	-	América-RJ	Fluminense	9138	2462
+147841	08/09	-	-	Without Club	América-RJ	515	9138
+147841	08/09	-	-	EC Bahia	Without Club	10010	515
+147841	06/07	-	-	EC Bahia B	EC Bahia	17817	10010
+152690	19/20	Free transfer	€150Th.	FC Seoul	Daejeon Hana C.	6500	6499
+152690	19/20	End of loan	€150Th.	Pocheon Citizen	FC Seoul	39251	6500
+152690	17/18	Loan	€400Th.	FC Seoul	Pocheon Citizen	6500	39251
+152690	16/17	Free transfer	€100Th.	Seoul E-Land	FC Seoul	46292	6500
+152690	15/16	?	€100Th.	Jeonbuk Motors	Seoul E-Land	6502	46292
+152690	12/13	?	€350Th.	Incheon Utd.	Jeonbuk Motors	2996	6502
+152690	11/12	Free transfer	€350Th.	FC Seoul	Incheon Utd.	6500	2996
+152690	09/10	Free transfer	-	Chunnam Dragons	FC Seoul	6503	6500
+152690	06/07	-	-	Chunnam Yth.	Chunnam Dragons	63999	6503
+568659	19/20	-	-	FC Seoul Res.	FC Seoul	29187	6500
+568659	17/18	-	-	FC Seoul Yth.	FC Seoul Res.	20367	29187
+732699	19/20	-	-	FC Seoul Res.	FC Seoul	29187	6500
+732699	19/20	Free transfer	-	SungkyunkwanUni	FC Seoul Res.	9156	29187
+732699	15/16	-	-	BuGyeong HS (B)	SungkyunkwanUni	71022	9156
+217569	19/20	Free transfer	€750Th.	FC Seoul	Al-Wahda FC	6500	161
+217569	19/20	End of loan	€775Th.	Asan Mugunghwa	FC Seoul	76180	6500
+217569	17/18	Loan	€775Th.	FC Seoul	Asan Mugunghwa	6500	76180
+217569	17/18	Free transfer	€1.20m	Al-Ain FC	FC Seoul	2150	6500
+217569	13/14	€5.00m	€1.00m	Pohang Steelers	Al-Ain FC	311	2150
+217569	11/12	Free transfer	-	Yeungnam Uni	Pohang Steelers	41710	311
+217569	09/10	?	-	Pohang St. Yth.	Yeungnam Uni	20339	41710
+568661	19/20	-	-	FC Seoul Res.	FC Seoul	29187	6500
+568661	17/18	-	-	FC Seoul Yth.	FC Seoul Res.	20367	29187
+402156	19/20	-	-	FC Seoul Res.	FC Seoul	29187	6500
+402156	17/18	Free transfer	-	Hanyang Univ.	FC Seoul Res.	50143	29187
+402156	15/16	-	-	FC Seoul Yth.	Hanyang Univ.	20367	50143
+732698	19/20	-	-	FC Seoul Res.	FC Seoul	29187	6500
+732698	19/20	Free transfer	-	Kwangwoon University	FC Seoul Res.	2710	29187
+740765	19/20	-	-	FC Seoul Res.	FC Seoul	29187	6500
+740765	18/19	-	-	FC Seoul Yth.	FC Seoul Res.	20367	29187
+217345	19/20	End of loan	€800Th.	Asan Mugunghwa	FC Seoul	76180	6500
+217345	17/18	Loan	€750Th.	FC Seoul	Asan Mugunghwa	6500	76180
+217345	15/16	Free transfer	€500Th.	Busan IPark	FC Seoul	2582	6500
+217345	11/12	Free transfer	-	Konkuk Uni	Busan IPark	26242	2582
+497406	19/20	Free transfer	€50Th.	FC Seoul	Chuncheon FC	6500	43089
+497406	18/19	Free transfer	€100Th.	Jeju Utd.	FC Seoul	19684	6500
+497406	18/19	End of loan	€50Th.	Daejeon Citizen	Jeju Utd.	6499	19684
+497406	18/19	Loan	€50Th.	Jeju Utd.	Daejeon Citizen	19684	6499
+497406	16/17	Free transfer	-	Kyung Hee Univ.	Jeju Utd.	18915	19684
+428649	21/22	End of loan	€350Th.	Sangju Sangmu	FC Seoul	6505	6500
+428649	19/20	Loan	€350Th.	FC Seoul	Sangju Sangmu	6500	6505
+428649	17/18	Free transfer	€350Th.	Gwangju FC	FC Seoul	30925	6500
+428649	15/16	Free transfer	-	Hannam Uni	Gwangju FC	39280	30925
+314345	19/20	Free transfer	€150Th.	FC Seoul	Daejeon Hana C.	6500	6499
+314345	14/15	End of loan	€50Th.	Gimhae FC	FC Seoul	35761	6500
+314345	14/15	Loan	€50Th.	FC Seoul	Gimhae FC	6500	35761
+314345	13/14	-	-	FC Seoul Yth.	FC Seoul	20367	6500
+672654	19/20	Free transfer	€50Th.	FC Seoul	Ulsan Citizen	6500	71578
+672654	18/19	Free transfer	-	Cheongju City	FC Seoul	43088	6500
+672654	17/18	Free transfer	-	Haksung HS	Cheongju City	35050	43088
+639698	20/21	End of loan	€75Th.	Ansan Greeners	FC Seoul	57434	6500
+639698	19/20	Loan	€75Th.	FC Seoul	Ansan Greeners	6500	57434
+639698	18/19	Free transfer	-	Korea University	FC Seoul	854	6500
+639698	16/17	-	-	Haksung HS	Korea University	35050	854
+292247	19/20	Free transfer	€150Th.	FC Seoul	Jeonnam Dragons	6500	6503
+292247	17/18	End of loan	€200Th.	AFC Tubize	FC Seoul	3772	6500
+292247	17/18	Loan	€25Th.	FC Seoul	AFC Tubize	6500	3772
+292247	16/17	draft	€25Th.	Yonsei Univ.	FC Seoul	27039	6500
+292247	14/15	Free transfer	€25Th.	FC Seoul Yth.	Yonsei Univ.	20367	27039
+128378	19/20	Free transfer	€100Th.	FC Seoul	Gimhae FC	6500	35761
+128378	17/18	End of loan	€500Th.	Sangju Sangmu	FC Seoul	6505	6500
+128378	15/16	Loan	€500Th.	FC Seoul	Sangju Sangmu	6500	6505
+128378	12/13	Free transfer	-	Korea University	FC Seoul	854	6500
+420640	21/22	End of loan	€300Th.	Sangju Sangmu	FC Seoul	6505	6500
+420640	19/20	Loan	€300Th.	FC Seoul	Sangju Sangmu	6500	6505
+420640	18/19	Free transfer	€450Th.	Pohang Steelers	FC Seoul	311	6500
+420640	17/18	End of loan	€450Th.	Gyeongnam FC	Pohang Steelers	16696	311
+420640	16/17	Loan	-	Pohang Steelers	Gyeongnam FC	311	16696
+420640	15/16	draft	-	Yeungnam Uni	Pohang Steelers	41710	311
+420640	12/13	-	-	Pohang St. Yth.	Yeungnam Uni	20339	41710
+426924	19/20	Free transfer	€50Th.	FC Seoul	Jeonnam Dragons	6500	6503
+426924	15/16	-	-	FC Seoul Yth.	FC Seoul	20367	6500
+568664	20/21	End of loan	€50Th.	Pocheon Citizen	FC Seoul	39251	6500
+568664	19/20	Loan	€50Th.	FC Seoul	Pocheon Citizen	6500	39251
+568664	18/19	-	-	FC Seoul Yth.	FC Seoul	20367	6500
+568634	20/21	End of loan	€50Th.	Pocheon Citizen	FC Seoul	39251	6500
+568634	19/20	Loan	€50Th.	FC Seoul	Pocheon Citizen	6500	39251
+568634	18/19	-	-	FC Seoul Yth.	FC Seoul	20367	6500
+501988	19/20	?	€50Th.	FC Seoul	Defense Min.	6500	25384
+501988	16/17	Free transfer	-	Bupyeong HS	FC Seoul	70724	6500
+177443	19/20	?	€425Th.	FC Seoul	Daejeon Hana C.	6500	6499
+177443	17/18	End of loan	€650Th.	Sangju Sangmu	FC Seoul	6505	6500
+177443	15/16	Loan	€650Th.	FC Seoul	Sangju Sangmu	6500	6505
+177443	13/14	Free transfer	€650Th.	Daejeon Citizen	FC Seoul	6499	6500
+177443	10/11	Free transfer	-	Pai Chai Uni	Daejeon Citizen	35149	6499
+99445	19/20	-	-	FC Seoul	Retired	6500	123
+99445	16/17	Free transfer	€900Th.	FC Tokyo	FC Seoul	6631	6500
+99445	16/17	End of loan	€900Th.	Nagoya Grampus	FC Tokyo	1066	6631
+99445	15/16	Loan	€900Th.	FC Tokyo	Nagoya Grampus	6631	1066
+99445	15/16	?	€900Th.	BJ Guoan	FC Tokyo	3176	6631
+99445	13/14	€1.20m	€1.50m	FC Seoul	BJ Guoan	6500	3176
+99445	09/10	Free transfer	€450Th.	Jeonbuk Motors	FC Seoul	6502	6500
+99445	08/09	?	-	Daegu FC	Jeonbuk Motors	6504	6502
+99445	05/06	?	-	Ulsan Hyundai	Daegu FC	3535	6504
+99445	03/04	draft	-	Bupyeong HS	Ulsan Hyundai	70724	3535

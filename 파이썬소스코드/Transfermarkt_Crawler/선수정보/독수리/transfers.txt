@@ -1,0 +1,305 @@
+Player Id	Season	Fee	Market Value	Team A	Team B	ID Team A	ID Team B
+281963	19/20	€80.00m	€70.00m	Atlético Madrid	Bayern Munich 	13	27
+281963	15/16	-	-	Atl. Madrid B	Atlético Madrid	3679	13
+281963	14/15	-	-	Atl. Madrid U19	Atl. Madrid B	31506	3679
+281963	12/13	-	-	Atlético Juv. B	Atl. Madrid U19	14734	31506
+281963	11/12	-	-	Atlético Youth	Atlético Juv. B	70320	14734
+281963	07/08	Free transfer	-	CF Rayo Majadaho	Atlético Youth	62871	70320
+353366	19/20	€35.00m	€30.00m	VfB Stuttgart	Bayern Munich 	79	27
+353366	16/17	€5.00m	€800Th.	LOSC Lille	VfB Stuttgart	1082	79
+353366	15/16	-	-	LOSC Lille B	LOSC Lille	12765	1082
+353366	14/15	-	-	LOSC Lille U19	LOSC Lille B	7875	12765
+344600	19/20	€12.00m	€5.00m	Bor. M'gladbach	Bayern Munich 	18	27
+344600	17/18	€250Th.	-	AS Nancy U19	Bor. M'gladbach	10841	18
+80444	19/20	End of loan	€56.00m	Bayern Munich 	FC Barcelona	27	131
+80444	19/20	Loan fee:	€90.00m	FC Barcelona	Bayern Munich 	131	27
+80444	17/18	€145.00m	€90.00m	Liverpool	FC Barcelona	31	131
+80444	12/13	€13.00m	€9.00m	Inter	Liverpool	46	31
+80444	11/12	End of loan	€7.00m	Espanyol	Inter	714	46
+80444	11/12	Loan	€8.00m	Inter	Espanyol	46	714
+80444	09/10	End of loan	€2.50m	Vasco da Gama	Inter	978	46
+80444	08/09	Loan	-	Inter	Vasco da Gama	46	978
+80444	08/09	€3.80m	-	Vasco U17	Inter	15036	46
+42460	19/20	End of loan	€17.50m	Bayern Munich 	Inter	27	46
+42460	19/20	Loan fee:	€30.00m	Inter	Bayern Munich 	46	27
+42460	15/16	€19.00m	€13.00m	VfL Wolfsburg	Inter	82	46
+42460	12/13	€8.00m	€7.00m	Bor. Dortmund	VfL Wolfsburg	16	82
+42460	11/12	€5.50m	€6.00m	Club Brugge	Bor. Dortmund	2282	16
+42460	09/10	€200Th.	€1.00m	FC Sochaux	Club Brugge	750	2282
+42460	08/09	End of loan	€600Th.	KSV Roeselare	FC Sochaux	2977	750
+42460	08/09	Loan	€100Th.	FC Sochaux	KSV Roeselare	750	2977
+42460	08/09	-	€325Th.	FC Sochaux B	FC Sochaux	10825	750
+42460	06/07	€360Th.	-	Hajduk U17	FC Sochaux B	36344	10825
+42460	04/05	-	-	Hajduk Yth.	Hajduk U17	36360	36344
+343337	19/20	€3.00m	€4.00m	Hamburger SV	Bayern Munich 	41	27
+343337	17/18	-	€300Th.	Hamburg U17	Hamburger SV	21063	41
+343337	15/16	-	-	Hamburg Yth.	Hamburg U17	12786	21063
+343337	10/11	Free transfer	-	Wahlstedt Yth.	Hamburg Yth.	51176	12786
+280730	19/20	End of loan	€16.00m	Bayern Munich 	Real Madrid	27	418
+280730	19/20	Loan	€20.00m	Real Madrid	Bayern Munich 	418	27
+280730	18/19	€30.00m	€25.00m	Real Sociedad	Real Madrid	681	418
+280730	16/17	-	€300Th.	Real Sociedad B	Real Sociedad	9899	681
+280730	14/15	-	-	R. Sociedad U19	Real Sociedad B	9900	9899
+379979	19/20	End of loan	€5.00m	Hamburger SV	Bayern Munich 	41	27
+379979	19/20	Loan	€750Th.	Bayern Munich 	Hamburger SV	27	41
+379979	19/20	-	€750Th.	FC Bayern II	Bayern Munich 	28	27
+379979	18/19	End of loan	€750Th.	Jahn Regensburg	FC Bayern II	109	28
+379979	18/19	Loan	€250Th.	FC Bayern II	Jahn Regensburg	28	109
+379979	17/18	-	-	FC Bayern U19	FC Bayern II	1462	28
+379979	16/17	-	-	FC Bayern U17	FC Bayern U19	21058	1462
+379979	15/16	-	-	FC Bayern U16	FC Bayern U17	23112	21058
+379979	14/15	-	-	FC Bayern Münche	FC Bayern U16	18936	23112
+379979	06/07	Free transfer	-	TSV 1860 Yth.	FC Bayern Münche	18929	18936
+345780	19/20	-	€600Th.	FC Bayern II	Bayern Munich 	28	27
+345780	18/19	-	€600Th.	FC Bayern U19	FC Bayern II	1462	28
+345780	17/18	-	-	FC Bayern U17	FC Bayern U19	21058	1462
+345780	15/16	-	-	FC Bayern U16	FC Bayern U17	23112	21058
+345780	14/15	Free transfer	-	D. Dresden Yth.	FC Bayern U16	29709	23112
+156990	19/20	€3.50m	€2.50m	Bayern Munich 	Werder Bremen	27	86
+156990	18/19	End of loan	€2.50m	Werder Bremen	Bayern Munich 	86	27
+156990	17/18	Loan	€750Th.	Bayern Munich 	Werder Bremen	27	86
+156990	17/18	-	-	FC Bayern U19	Bayern Munich 	1462	27
+156990	15/16	-	-	FC Bayern U17	FC Bayern U19	21058	1462
+156990	14/15	-	-	FC Bayern U16	FC Bayern U17	23112	21058
+156990	13/14	-	-	FC Bayern Münche	FC Bayern U16	18936	23112
+156990	08/09	?	-	Kufstein Youth	FC Bayern Münche	21695	18936
+156990	06/07	?	-	Kirchbichl Yth.	Kufstein Youth	42694	21695
+39728	19/20	€30.50m	€35.00m	Bayern Munich 	Bor. Dortmund	27	16
+39728	16/17	€35.00m	€38.00m	Bor. Dortmund	Bayern Munich 	16	27
+39728	09/10	€4.20m	€4.00m	Bayern Munich 	Bor. Dortmund	27	16
+39728	08/09	End of loan	€4.00m	Bor. Dortmund	Bayern Munich 	16	27
+39728	07/08	Loan	€250Th.	Bayern Munich 	Bor. Dortmund	27	16
+39728	06/07	-	€150Th.	FC Bayern II	Bayern Munich 	28	27
+39728	06/07	-	€50Th.	FC Bayern U19	FC Bayern II	1462	28
+39728	04/05	-	-	FC Bayern U17	FC Bayern U19	21058	1462
+39728	03/04	-	-	FC Bayern Münche	FC Bayern U17	18936	21058
+258027	19/20	€20.00m	€18.00m	Bayern Munich 	LOSC Lille	27	1082
+258027	17/18	End of loan	€20.00m	Swansea	Bayern Munich 	2288	27
+258027	17/18	Loan fee:	€22.00m	Bayern Munich 	Swansea	27	2288
+258027	16/17	€35.00m	€20.00m	Benfica	Bayern Munich 	294	27
+258027	15/16	-	€800Th.	Benfica B	Benfica	10330	294
+258027	15/16	-	-	Benfica U19	Benfica B	8889	10330
+258027	14/15	-	-	Benfica U17	Benfica U19	45618	8889
+258027	12/13	-	-	Benfica U15	Benfica U17	53954	45618
+258027	10/11	-	-	SL Benfica Yout	Benfica U15	53955	53954
+33947	19/20	Free transfer	€3.00m	Bayern Munich 	Flamengo	27	614
+33947	11/12	€5.50m	€8.00m	Genoa	Bayern Munich 	252	27
+33947	10/11	€8.00m	€12.00m	FC Schalke 04	Genoa	33	252
+33947	05/06	€5.00m	€4.50m	Coritiba FC	FC Schalke 04	776	33
+33947	01/02	Free transfer	-	Londrina-PR	Coritiba FC	1693	776
+22068	19/20	Free transfer	€4.00m	Bayern Munich 	Fiorentina	27	430
+22068	07/08	€30.00m	€18.00m	Marseille	Bayern Munich 	244	27
+22068	05/06	Free transfer	€5.25m	Galatasaray	Marseille	141	244
+22068	04/05	€5.00m	€3.00m	FC Metz	Galatasaray	347	141
+22068	04/05	Free transfer	-	Stade Brest 29	FC Metz	3911	347
+22068	03/04	Free transfer	-	Olympique Alès	Stade Brest 29	2618	3911
+22068	02/03	Free transfer	-	US Boulogne	Olympique Alès	7042	2618
+22068	00/01	-	-	Boulogne U19	US Boulogne	12776	7042
+22068	99/00	Free transfer	-	LOSC Lille Yth.	Boulogne U19	59856	12776
+4360	19/20	-	-	Bayern Munich 	Retired	27	123
+4360	09/10	€25.00m	€30.00m	Real Madrid	Bayern Munich 	418	27
+4360	07/08	€35.00m	€22.80m	Chelsea	Real Madrid	631	418
+4360	04/05	€18.00m	-	PSV Eindhoven	Chelsea	383	631
+4360	02/03	€4.30m	-	FC Groningen	PSV Eindhoven	202	383
+4360	00/01	-	-	Groningen U19	FC Groningen	7461	202
+4360	00/01	-	-	Groningen U17	Groningen U19	52451	7461
+4360	99/00	-	-	Groningen Yth.	Groningen U17	32795	52451
+88103	18/19	End of loan	€50.00m	Bayern Munich 	Real Madrid	27	418
+88103	17/18	Loan fee:	€50.00m	Real Madrid	Bayern Munich 	418	27
+88103	14/15	€75.00m	€60.00m	Monaco	Real Madrid	162	418
+88103	13/14	€45.00m	€23.00m	FC Porto	Monaco	720	162
+88103	10/11	€7.35m	€2.50m	CA Banfield	FC Porto	830	720
+88103	08/09	-	-	CA Banfield U20	CA Banfield	15103	830
+88103	07/08	€280Th.	-	Envigado	CA Banfield U20	7136	15103
+88103	06/07	-	-	Envigado U20	Envigado	22573	7136
+39728	19/20	€30.50m	€35.00m	Bayern Munich 	Bor. Dortmund	27	16
+39728	16/17	€35.00m	€38.00m	Bor. Dortmund	Bayern Munich 	16	27
+39728	09/10	€4.20m	€4.00m	Bayern Munich 	Bor. Dortmund	27	16
+39728	08/09	End of loan	€4.00m	Bor. Dortmund	Bayern Munich 	16	27
+39728	07/08	Loan	€250Th.	Bayern Munich 	Bor. Dortmund	27	16
+39728	06/07	-	€150Th.	FC Bayern II	Bayern Munich 	28	27
+39728	06/07	-	€50Th.	FC Bayern U19	FC Bayern II	1462	28
+39728	04/05	-	-	FC Bayern U17	FC Bayern U19	21058	1462
+39728	03/04	-	-	FC Bayern Münche	FC Bayern U17	18936	21058
+85867	19/20	€25.50m	€25.00m	TSG Hoffenheim	Bor. Dortmund	533	16
+85867	17/18	€3.00m	€2.00m	Bor. M'gladbach	TSG Hoffenheim	18	533
+85867	15/16	€4.00m	€3.50m	Hertha BSC	Bor. M'gladbach	44	18
+85867	10/11	-	-	Hertha BSC U19	Hertha BSC	2827	44
+85867	09/10	-	-	Hertha BSC U17	Hertha BSC U19	21066	2827
+85867	08/09	-	-	Hertha BSC Yth.	Hertha BSC U17	11844	21066
+85867	00/01	Free transfer	-	Rehberge Yth.	Hertha BSC Yth.	48852	11844
+102226	19/20	€25.50m	€38.00m	Bor. M'gladbach	Bor. Dortmund	18	16
+102226	15/16	€8.00m	€10.00m	Chelsea	Bor. M'gladbach	631	18
+102226	14/15	End of loan	€10.00m	Bor. M'gladbach	Chelsea	18	631
+102226	14/15	Loan fee:	€10.00m	Chelsea	Bor. M'gladbach	631	18
+102226	13/14	End of loan	€10.00m	Zulte Waregem	Chelsea	3508	631
+102226	12/13	Loan	€500Th.	Chelsea	Zulte Waregem	631	3508
+102226	12/13	€500Th.	€500Th.	Lens	Chelsea	826	631
+102226	11/12	-	-	RC Lens B	Lens	8152	826
+102226	10/11	-	-	RC Lens U19	RC Lens B	10824	8152
+102226	07/08	Free transfer	-	Tubize Yth.	RC Lens U19	66274	10824
+187492	19/20	€25.00m	€50.00m	Bay. Leverkusen	Bor. Dortmund	15	16
+187492	13/14	€500Th.	-	Wolfsburg U19	Bay. Leverkusen	5343	15
+187492	12/13	-	-	Wolfsburg U17	Wolfsburg U19	21087	5343
+187492	11/12	Free transfer	-	Oberneul. Yth.	Wolfsburg U17	18485	21087
+187492	09/10	Free transfer	-	Borgfeld Yth.	Oberneul. Yth.	42559	18485
+126716	19/20	€23.00m	€42.00m	Bor. Dortmund	Villarreal	16	1050
+126716	19/20	€21.00m	€37.00m	FC Barcelona	Bor. Dortmund	131	16
+126716	18/19	End of loan	€37.00m	Bor. Dortmund	FC Barcelona	16	131
+126716	18/19	Loan fee:	€15.00m	FC Barcelona	Bor. Dortmund	131	16
+126716	16/17	€30.00m	€25.00m	Valencia	FC Barcelona	1049	131
+126716	12/13	End of loan	€2.00m	Getafe	Valencia	3709	1049
+126716	12/13	Loan	€2.50m	Valencia	Getafe	1049	3709
+126716	11/12	-	-	Valencia B	Valencia	6182	1049
+126716	10/11	-	-	Valencia U19	Valencia B	10200	6182
+126716	09/10	-	-	Valencia CF You	Valencia U19	16200	10200
+126716	05/06	?	-	Torrent C.F.	Valencia CF You	67509	16200
+418560	19/20	€20.00m	€45.00m	RB Salzburg	Bor. Dortmund	409	16
+418560	18/19	€8.00m	€5.00m	Molde FK	RB Salzburg	687	409
+418560	16/17	€100Th.	€200Th.	Bryne FK	Molde FK	1057	687
+418560	15/16	-	-	Bryne FK U19	Bryne FK	19368	1057
+119296	20/21	€25.00m	€24.00m	Juventus	Bor. Dortmund	506	16
+119296	19/20	End of loan	€24.00m	Bor. Dortmund	Juventus	16	506
+119296	19/20	Loan fee:	€30.00m	Juventus	Bor. Dortmund	506	16
+119296	18/19	Free transfer	€30.00m	Liverpool	Juventus	31	506
+119296	14/15	€12.00m	€7.50m	Bay. Leverkusen	Liverpool	15	31
+119296	13/14	€5.00m	€1.50m	Bayern Munich 	Bay. Leverkusen	27	15
+119296	12/13	-	€600Th.	FC Bayern II	Bayern Munich 	28	27
+119296	11/12	-	-	FC Bayern U19	FC Bayern II	1462	28
+119296	10/11	-	-	FC Bayern U17	FC Bayern U19	21058	1462
+119296	09/10	Free transfer	-	Frankfurt Yth.	FC Bayern U17	12016	21058
+388513	19/20	Free transfer	€300Th.	Barça U19	Bor. Dortmund	2470	16
+388513	17/18	-	-	Barça U18	Barça U19	39813	2470
+388513	15/16	?	-	RCD Mallorca Yo	Barça U18	25625	39813
+384745	19/20	-	-	B. Dortmund U19	Bor. Dortmund	1464	16
+384745	17/18	-	-	B. Dortmund U17	B. Dortmund U19	21055	1464
+384745	16/17	-	-	B. Dortmund U16	B. Dortmund U17	41210	21055
+384745	15/16	Free transfer	-	Düsseldorf Yth.	B. Dortmund U16	11955	41210
+384745	13/14	Free transfer	-	M'gladbach Yth.	Düsseldorf Yth.	11845	11955
+384745	11/12	Free transfer	-	Unterrath Yth.	M'gladbach Yth.	33188	11845
+504215	19/20	-	-	B. Dortmund U19	Bor. Dortmund	1464	16
+504215	19/20	Free transfer	-	NYCFC Academy	B. Dortmund U19	56704	1464
+388815	19/20	-	-	B. Dortmund U19	Bor. Dortmund	1464	16
+388815	17/18	-	-	B. Dortmund U17	B. Dortmund U19	21055	1464
+388815	16/17	Free transfer	-	VfL Bochum Yth.	B. Dortmund U17	11894	21055
+274461	19/20	End of loan	€1.30m	Fortuna Sittard	Bor. Dortmund	385	16
+274461	19/20	Loan	€1.50m	Bor. Dortmund	Fortuna Sittard	16	385
+274461	18/19	End of loan	€1.50m	Norwich	Bor. Dortmund	1123	16
+274461	18/19	Loan fee:	€1.50m	Bor. Dortmund	Norwich	16	1123
+274461	17/18	End of loan	€1.50m	TSG Hoffenheim	Bor. Dortmund	533	16
+274461	17/18	Loan	€3.00m	Bor. Dortmund	TSG Hoffenheim	16	533
+274461	15/16	-	-	B. Dortmund U19	Bor. Dortmund	1464	16
+274461	15/16	-	-	B. Dortmund U17	B. Dortmund U19	21055	1464
+274461	13/14	-	-	B. Dortmund U16	B. Dortmund U17	41210	21055
+274461	13/14	-	-	Dortmund Yth.	B. Dortmund U16	11896	41210
+274461	12/13	Free transfer	-	RW Oberh. Yth.	Dortmund Yth.	38232	11896
+274461	10/11	Free transfer	-	F. Bottrop Yth.	RW Oberh. Yth.	49046	38232
+349066	19/20	€6.50m	€8.00m	Bor. Dortmund	Real Sociedad	16	681
+349066	18/19	End of loan	€8.00m	Willem II	Bor. Dortmund	403	16
+349066	18/19	Loan	€3.00m	Bor. Dortmund	Willem II	16	403
+349066	16/17	€8.60m	€1.75m	AIK	Bor. Dortmund	272	16
+349066	15/16	-	-	AIK U19	AIK	16574	272
+349066	15/16	-	-	AIK U17	AIK U19	42331	16574
+44466	19/20	€4.00m	€3.00m	Bor. Dortmund	E. Frankfurt	16	24
+44466	18/19	End of loan	€3.00m	E. Frankfurt	Bor. Dortmund	24	16
+44466	18/19	Loan	€1.50m	Bor. Dortmund	E. Frankfurt	16	24
+44466	16/17	€12.00m	€8.00m	Bayern Munich 	Bor. Dortmund	27	16
+44466	14/15	Free transfer	€9.00m	E. Frankfurt	Bayern Munich 	24	27
+44466	10/11	€250Th.	€300Th.	K. Offenbach	E. Frankfurt	107	24
+44466	08/09	-	-	K. Offenb. U19	K. Offenbach	8489	107
+44466	07/08	-	-	K. Offenb. U17	K. Offenb. U19	21069	8489
+44466	05/06	Free transfer	-	Darmstadt Yth.	K. Offenb. U17	33469	21069
+44466	04/05	Free transfer	-	Griesheim Yth.	Darmstadt Yth.	49875	33469
+129674	19/20	End of loan	€3.50m	Sassuolo	Bor. Dortmund	6574	16
+129674	19/20	Loan fee:	€3.00m	Bor. Dortmund	Sassuolo	16	6574
+129674	18/19	End of loan	€3.00m	Celtic	Bor. Dortmund	371	16
+129674	18/19	Loan	€3.00m	Bor. Dortmund	Celtic	16	371
+129674	17/18	€7.00m	€3.50m	TSG Hoffenheim	Bor. Dortmund	533	16
+129674	13/14	-	€100Th.	Hoffenheim II	TSG Hoffenheim	983	533
+129674	12/13	-	-	Hoffenheim U19	Hoffenheim II	8925	983
+129674	11/12	€500Th.	-	Stuttgart U17	Hoffenheim U19	21084	8925
+129674	09/10	Free transfer	-	S. Kickers Yth.	Stuttgart U17	29815	21084
+129674	08/09	Free transfer	-	Without Club	S. Kickers Yth.	515	29815
+129674	07/08	-	-	Steinhaldenfeld	Without Club	47087	515
+129674	07/08	-	-	Unknown	Steinhald. Yth.	75	47088
+129674	06/07		-	Sommerrain Yth.	Unknown	47090	75
+58205	19/20	End of loan	€6.50m	Spartak Moscow	Bor. Dortmund	232	16
+58205	19/20	Loan fee:	€12.00m	Bor. Dortmund	Spartak Moscow	16	232
+58205	18/19	End of loan	€12.00m	Fulham	Bor. Dortmund	931	16
+58205	18/19	Loan fee:	€15.00m	Bor. Dortmund	Fulham	16	931
+58205	16/17	€30.00m	€25.00m	VfL Wolfsburg	Bor. Dortmund	82	16
+58205	14/15	€32.00m	€23.00m	Chelsea	VfL Wolfsburg	631	82
+58205	13/14	€22.00m	€25.00m	Bay. Leverkusen	Chelsea	15	631
+58205	11/12	€8.50m	€12.50m	1.FSV Mainz 05	Bay. Leverkusen	39	15
+58205	09/10	-	-	Mainz 05 U19	1.FSV Mainz 05	5369	39
+58205	07/08	-	-	Mainz 05 U17	Mainz 05 U19	21051	5369
+58205	06/07	Free transfer	-	Ludwigs. SC U17	Mainz 05 U17	42297	21051
+58205	05/06	-	-	Ludw. SC Yth.	Ludwigs. SC U17	40756	42297
+81785	19/20	€3.00m	€6.00m	Bor. Dortmund	Real Zaragoza	16	142
+81785	18/19	End of loan	€6.00m	Besiktas	Bor. Dortmund	114	16
+81785	18/19	Loan	€8.00m	Bor. Dortmund	Besiktas	16	114
+81785	14/15	€8.00m	€15.00m	Man Utd	Bor. Dortmund	985	16
+81785	12/13	€16.00m	€22.00m	Bor. Dortmund	Man Utd	16	985
+81785	10/11	Free transfer	€2.50m	Cerezo Osaka	Bor. Dortmund	1022	16
+81785	05/06	Free transfer	-	FC Miyagi Yth.	Cerezo Osaka	24089	1022
+229005	19/20	€32.00m	€35.00m	Bor. Dortmund	Paris SG	16	583
+229005	18/19	€28.00m	€12.00m	1.FSV Mainz 05	Bor. Dortmund	39	16
+229005	17/18	€5.00m	€1.00m	Monaco	1.FSV Mainz 05	162	39
+229005	15/16	End of loan	€1.20m	Zulte Waregem	Monaco	3508	162
+229005	15/16	Loan	€500Th.	Monaco	Zulte Waregem	162	3508
+229005	14/15	-	-	Monaco B	Monaco	9668	162
+229005	13/14	-	-	Monaco U19	Monaco B	9669	9668
+196792	19/20	€20.00m	€23.00m	Bor. Dortmund	Benfica	16	294
+196792	15/16	€2.50m	€2.00m	1860 Munich	Bor. Dortmund	72	16
+196792	13/14	-	€100Th.	1860 München II	1860 Munich	73	72
+196792	13/14	-	-	TSV 1860 U19	1860 München II	2510	73
+196792	12/13	-	-	TSV 1860 U17	TSV 1860 U19	21083	2510
+196792	10/11	Free transfer	-	Rosenheim Yth.	TSV 1860 U17	42287	21083
+196792	06/07	Free transfer	-	Ostermünchen	Rosenheim Yth.	33551	42287
+143891	19/20	€20.00m	€13.00m	Bor. Dortmund	Dinamo Moscow	16	121
+143891	17/18	€20.00m	€15.00m	SC Freiburg	Bor. Dortmund	60	16
+143891	14/15	-	€100Th.	SC Freiburg II	SC Freiburg	245	60
+143891	13/14	-	€25Th.	SC Freiburg U19	SC Freiburg II	4042	245
+143891	12/13	Free transfer	-	E. Cottbus U19	SC Freiburg U19	2492	4042
+143891	11/12	Free transfer	-	TeBe Berlin U17	E. Cottbus U19	21080	2492
+143891	09/10	-	-	TeBe Youth	TeBe Berlin U17	12596	21080
+143891	08/09	Free transfer	-	Hertha BSC Yth.	TeBe Youth	11844	12596
+293281	19/20	€9.00m	€12.00m	Bor. Dortmund	TSG Hoffenheim	16	533
+293281	17/18	End of loan	€500Th.	VfB Stuttgart	Bor. Dortmund	79	16
+293281	17/18	Loan fee:	€500Th.	Bor. Dortmund	VfB Stuttgart	16	79
+293281	17/18	-	-	B. Dortmund U19	Bor. Dortmund	1464	16
+293281	15/16	-	-	B. Dortmund U17	B. Dortmund U19	21055	1464
+293281	14/15	€250Th.	-	Lyngby BK Youth	B. Dortmund U17	9712	21055
+43512	19/20	End of loan	€3.50m	Werder Bremen	Bor. Dortmund	86	16
+43512	19/20	Loan fee:	€5.00m	Bor. Dortmund	Werder Bremen	16	86
+43512	17/18	€12.00m	€16.00m	Bay. Leverkusen	Bor. Dortmund	15	16
+43512	11/12	€3.00m	€4.00m	SC Freiburg	Bay. Leverkusen	60	15
+43512	08/09	-	€100Th.	SC Freiburg U19	SC Freiburg	4042	60
+43512	06/07	-	-	SC Freiburg U17	SC Freiburg U19	21075	4042
+43512	05/06	Free transfer	-	Ravensburg U17	SC Freiburg U17	37898	21075
+43512	04/05	-	-	Ravensburg Yth.	Ravensburg U17	29183	37898
+43512	01/02	Free transfer	-	Ravensburg Yth.	Ravensburg Yth.	42459	29183
+193900	19/20	End of loan	€6.50m	Hertha BSC	Bor. Dortmund	44	16
+193900	19/20	Loan fee:	€8.00m	Bor. Dortmund	Hertha BSC	16	44
+193900	18/19	€5.00m	€10.00m	E. Frankfurt	Bor. Dortmund	24	16
+193900	18/19	€500Th.	€10.00m	Hannover 96	E. Frankfurt	42	24
+193900	17/18	End of loan	€10.00m	E. Frankfurt	Hannover 96	24	42
+193900	16/17	Loan fee:	€350Th.	Hannover 96	E. Frankfurt	42	24
+193900	15/16	€1.50m	€800Th.	1860 Munich	Hannover 96	72	42
+193900	14/15	-	€100Th.	1860 München II	1860 Munich	73	72
+193900	14/15	-	€50Th.	TSV 1860 U19	1860 München II	2510	73
+193900	12/13	Free transfer	-	Nürnberg U17	TSV 1860 U19	21049	2510
+193900	11/12	-	-	Nürnberg Yth.	Nürnberg U17	20462	21049
+366930	19/20	End of loan	€2.30m	SD Huesca	Bor. Dortmund	5358	16
+366930	19/20	Loan	€3.00m	Bor. Dortmund	SD Huesca	16	5358
+366930	17/18	€3.00m	-	Barça U19	Bor. Dortmund	2470	16
+366930	17/18	-	-	Barça U18	Barça U19	39813	2470
+366930	16/17	-	-	Barça U16	Barça U18	14321	39813
+366930	15/16	-	-	Barcelona Yth.	Barça U16	70295	14321
+366930	10/11	Free transfer	-	Espanyol Youth	Barcelona Yth.	14737	70295
+315779	18/19	End of loan	€60.00m	Bor. Dortmund	Chelsea	16	631
+315779	18/19	Loan	€50.00m	Chelsea	Bor. Dortmund	631	16
+315779	18/19	€64.00m	€50.00m	Bor. Dortmund	Chelsea	16	631
+315779	15/16	-	-	B. Dortmund U19	Bor. Dortmund	1464	16
+315779	15/16	-	-	B. Dortmund U17	B. Dortmund U19	21055	1464
+315779	14/15	Free transfer	-	PA Classics	B. Dortmund U17	45065	21055

@@ -1,0 +1,249 @@
+Player Id	Season	Fee	Market Value	Team A	Team B	ID Team A	ID Team B
+125781	19/20	€120.00m	€130.00m	Atlético Madrid	FC Barcelona	13	131
+125781	14/15	€54.00m	€30.00m	Real Sociedad	Atlético Madrid	681	13
+125781	09/10	-	-	Real Sociedad B	Real Sociedad	9899	681
+125781	09/10	-	-	R. Sociedad U19	Real Sociedad B	9900	9899
+125781	08/09	-	-	Real Sociedad Y	R. Sociedad U19	14967	9900
+125781	05/06	Free transfer	-	Maconnais	Real Sociedad Y	23360	14967
+326330	19/20	€75.00m	€85.00m	Ajax	FC Barcelona	610	131
+326330	16/17	-	€600Th.	Ajax U21	Ajax	8817	610
+326330	15/16	End of loan	€400Th.	Willem II	Ajax U21	403	8817
+326330	15/16	Loan	€250Th.	Ajax U21	Willem II	8817	403
+326330	15/16	€10.13m	€250Th.	Willem II U21	Ajax U21	9005	8817
+326330	14/15	-	-	Willem II U17	Willem II U21	53474	9005
+111819	19/20	€26.00m	€18.00m	Valencia	FC Barcelona	1049	131
+111819	17/18	€7.00m	€6.00m	Juventus	Valencia	506	1049
+111819	15/16	Free transfer	€9.00m	Fiorentina	Juventus	430	506
+111819	10/11	€3.50m	€1.80m	Atlético-PR	Fiorentina	679	430
+111819	08/09	-	-	Atlético-PR B	Atlético-PR	16656	679
+95732	19/20	€18.00m	€10.00m	CD Leganés	FC Barcelona	1244	131
+95732	19/20	€5.00m	€8.00m	Middlesbrough	CD Leganés	641	1244
+95732	18/19	End of loan	€8.00m	CD Leganés	Middlesbrough	1244	641
+95732	18/19	Loan	€8.00m	Middlesbrough	CD Leganés	641	1244
+95732	17/18	End of loan	€8.00m	G. Bordeaux	Middlesbrough	40	641
+95732	17/18	Loan	€7.50m	Middlesbrough	G. Bordeaux	641	40
+95732	17/18	€11.30m	€7.50m	Toulouse	Middlesbrough	415	641
+95732	13/14	€2.00m	€850Th.	Esbjerg fB	Toulouse	3426	415
+95732	09/10	-	-	Esbjerg fB U19	Esbjerg fB	14349	3426
+95732	07/08	Free transfer	-	FCM Youth	Esbjerg fB U19	52879	14349
+95732	07/08	Free transfer	-	Esbjerg Youth	FCM Youth	11253	52879
+374139	19/20	€18.00m	€25.00m	Real Betis	FC Barcelona	150	131
+374139	17/18	-	€100Th.	Betis B	Real Betis	2865	150
+374139	15/16	-	-	Betis U19	Betis B	40422	2865
+374139	14/15	Free transfer	-	Malagueño U19	Betis U19	72087	40422
+476344	20/21	End of loan	€18.00m	Real Betis	FC Barcelona	150	131
+476344	19/20	Loan fee:	€3.00m	FC Barcelona	Real Betis	131	150
+476344	19/20	€12.00m	€3.00m	Atlético-MG	FC Barcelona	330	131
+476344	18/19	End of loan	€3.00m	Real Betis	Atlético-MG	150	330
+476344	18/19	Loan	€50Th.	Atlético-MG	Real Betis	330	150
+476344	17/18	€1.18m	€50Th.	Ponte Preta	Atlético-MG	1134	330
+476344	16/17	-	-	Ponte Preta U20	Ponte Preta	16805	1134
+284857	19/20	End of loan	€18.00m	Getafe	FC Barcelona	3709	131
+284857	19/20	Loan	€10.00m	FC Barcelona	Getafe	131	3709
+284857	19/20	€4.00m	€10.00m	SD Eibar	FC Barcelona	1533	131
+284857	19/20	€2.00m	€10.00m	FC Barcelona	SD Eibar	131	1533
+284857	18/19	End of loan	€10.00m	SD Eibar	FC Barcelona	1533	131
+284857	18/19	Loan	€5.00m	FC Barcelona	SD Eibar	131	1533
+284857	18/19	-	€5.00m	FC Barcelona B	FC Barcelona	2464	131
+284857	17/18	-	€700Th.	Barça U19	FC Barcelona B	2470	2464
+284857	15/16	-	-	Barça U18	Barça U19	39813	2470
+284857	14/15	-	-	Barça U16	Barça U18	14321	39813
+284857	12/13	Free transfer	-	Espanyol Youth	Barça U16	14737	14321
+21369	20/21	-	€650Th.	FC Barcelona	Without Club	131	515
+21369	19/20	End of loan	€800Th.	Basaksehir	FC Barcelona	6890	131
+21369	17/18	Loan	€12.00m	FC Barcelona	Basaksehir	131	6890
+21369	15/16	€34.00m	€35.00m	Atlético Madrid	FC Barcelona	13	131
+21369	11/12	€13.00m	€15.50m	Galatasaray	Atlético Madrid	141	13
+21369	05/06	End of loan	€650Th.	Manisaspor	Galatasaray	1267	141
+21369	05/06	Loan fee:	€650Th.	Galatasaray	Manisaspor	141	1267
+21369	04/05	-	-	Galatasaray U21	Galatasaray	11502	141
+21369	03/04	-	-	Galatasaray Yth	Galatasaray U21	43428	11502
+21369	99/00	Free transfer	-	Altintepsi Spor	Galatasaray Yth	70742	43428
+282810	20/21	€11.00m	€9.00m	FC Barcelona	AS Roma	131	12
+282810	19/20	End of loan	€9.00m	AS Roma	FC Barcelona	12	131
+282810	19/20	Loan fee:	€10.00m	FC Barcelona	AS Roma	131	12
+282810	19/20	-	€1.50m	FC Barcelona B	FC Barcelona	2464	131
+282810	17/18	-	-	Barça U19	FC Barcelona B	2470	2464
+282810	15/16	-	-	Barça U18	Barça U19	39813	2470
+282810	14/15	-	-	Barça U16	Barça U18	14321	39813
+282810	12/13	Free transfer	-	Espanyol Youth	Barça U16	14737	14321
+282810	08/09	Free transfer	-	CF Damm Youth	Espanyol Youth	45258	14737
+466810	19/20	-	-	Barça U19	FC Barcelona	2470	131
+466810	18/19	-	-	Barça U18	Barça U19	39813	2470
+466810	17/18	-	-	Barça U16	Barça U18	14321	39813
+466810	16/17	-	-	Barcelona Yth.	Barça U16	70295	14321
+466810	12/13	Free transfer	-	Sevilla FC Yth.	Barcelona Yth.	14685	70295
+282721	19/20	End of loan	€2.30m	Twente FC	FC Barcelona	317	131
+282721	19/20	Loan	€2.50m	FC Barcelona	Twente FC	131	317
+282721	19/20	-	€2.50m	FC Barcelona B	FC Barcelona	2464	131
+282721	17/18	-	-	Barça U19	FC Barcelona B	2470	2464
+282721	15/16	-	-	Barça U18	Barça U19	39813	2470
+282721	14/15	-	-	Barça U16	Barça U18	14321	39813
+341227	20/21	End of loan	€4.00m	FC Schalke 04	FC Barcelona	33	131
+341227	19/20	Loan	€5.00m	FC Barcelona	FC Schalke 04	131	33
+341227	19/20	-	€5.00m	FC Barcelona B	FC Barcelona	2464	131
+341227	17/18	-	€1.00m	Barça U19	FC Barcelona B	2470	2464
+341227	17/18	-	-	Barça U18	Barça U19	39813	2470
+341227	16/17	-	-	Barça U16	Barça U18	14321	39813
+341227	14/15	?	-	Real Betis Yth.	Barça U16	14743	14321
+364240	19/20	End of loan	€6.70m	OGC Nice	FC Barcelona	417	131
+364240	19/20	Loan	€7.50m	FC Barcelona	OGC Nice	131	417
+364240	19/20	-	€5.00m	FC Barcelona B	FC Barcelona	2464	131
+364240	18/19	€5.00m	€3.00m	KAS Eupen	FC Barcelona B	1245	2464
+364240	16/17	Free transfer	€50Th.	ASPIRE Academy	KAS Eupen	25393	1245
+443222	19/20	€2.50m	€1.50m	FC Barcelona	CA Osasuna	131	331
+443222	18/19	End of loan	€1.50m	SD Eibar	FC Barcelona	1533	131
+443222	18/19	Loan	€1.00m	FC Barcelona	SD Eibar	131	1533
+443222	18/19	-	€1.00m	FC Barcelona B	FC Barcelona	2464	131
+443222	16/17	Free transfer	-	Sanluqueño	FC Barcelona B	21322	2464
+443222	14/15	-	-	Sanluqueño B	Sanluqueño	38136	21322
+142033	19/20	Free transfer	€1.00m	FC Barcelona	CD Tenerife	131	648
+142033	18/19	End of loan	€1.00m	Dep. La Coruña	FC Barcelona	897	131
+142033	18/19	Loan	€1.50m	FC Barcelona	Dep. La Coruña	131	897
+142033	18/19	-	€1.50m	FC Barcelona B	FC Barcelona	2464	131
+142033	16/17	End of loan	€800Th.	Alavés	FC Barcelona B	1108	2464
+142033	16/17	Loan	-	FC Barcelona B	Alavés	2464	1108
+142033	13/14	Free transfer	€200Th.	Villarreal CF B	FC Barcelona B	11972	2464
+142033	12/13	-	€300Th.	FC Villarreal C	Villarreal CF B	12853	11972
+142033	11/12	-	-	Villarreal U19	FC Villarreal C	28868	12853
+142033	10/11	-	-	Roda U19	Villarreal U19	70473	28868
+142033	09/10	-	-	Villarreal Yth.	Roda U19	14740	70473
+142033	08/09	?	-	Alicante U19	Villarreal Yth.	25679	14740
+126716	19/20	€23.00m	€42.00m	Bor. Dortmund	Villarreal	16	1050
+126716	19/20	€21.00m	€37.00m	FC Barcelona	Bor. Dortmund	131	16
+126716	18/19	End of loan	€37.00m	Bor. Dortmund	FC Barcelona	16	131
+126716	18/19	Loan fee:	€15.00m	FC Barcelona	Bor. Dortmund	131	16
+126716	16/17	€30.00m	€25.00m	Valencia	FC Barcelona	1049	131
+126716	12/13	End of loan	€2.00m	Getafe	Valencia	3709	1049
+126716	12/13	Loan	€2.50m	Valencia	Getafe	1049	3709
+126716	11/12	-	-	Valencia B	Valencia	6182	1049
+126716	10/11	-	-	Valencia U19	Valencia B	10200	6182
+126716	09/10	-	-	Valencia CF You	Valencia U19	16200	10200
+126716	05/06	?	-	Torrent C.F.	Valencia CF You	67509	16200
+58426	19/20	Free transfer	€2.00m	FC Barcelona	Besiktas	131	114
+58426	18/19	End of loan	€2.00m	Sivasspor	FC Barcelona	2381	131
+58426	18/19	Loan	€1.25m	FC Barcelona	Sivasspor	131	2381
+58426	17/18	End of loan	€1.25m	Benfica	FC Barcelona	294	131
+58426	17/18	Loan	€1.50m	FC Barcelona	Benfica	131	294
+58426	16/17	End of loan	€1.50m	Sporting Gijón	FC Barcelona	2448	131
+58426	16/17	Loan	€1.00m	FC Barcelona	Sporting Gijón	131	2448
+58426	14/15	€4.00m	€2.00m	São Paulo	FC Barcelona	585	131
+58426	11/12	?	€1.00m	Desp. Brasil	São Paulo	17300	585
+58426	11/12	?	€1.00m	Goiás EC	Desp. Brasil	3197	17300
+58426	08/09	-	-	Goiás B	Goiás EC	16667	3197
+268176	19/20	€2.00m	€6.00m	FC Barcelona	Saint-Étienne	131	618
+268176	18/19	End of loan	€6.00m	G. Bordeaux	FC Barcelona	40	131
+268176	18/19	Loan	€2.50m	FC Barcelona	G. Bordeaux	131	40
+268176	18/19	-	€2.50m	FC Barcelona B	FC Barcelona	2464	131
+268176	15/16	-	€300Th.	Barça U19	FC Barcelona B	2470	2464
+268176	13/14	-	-	Barça U18	Barça U19	39813	2470
+268176	12/13	-	-	Barça U16	Barça U18	14321	39813
+268176	11/12	-	-	Barcelona Yth.	Barça U16	70295	14321
+268176	07/08	Free transfer	-	CF Badalona You	Barcelona Yth.	40771	70295
+165007	19/20	€12.90m	€12.00m	FC Barcelona	Celta de Vigo	131	940
+165007	18/19	End of loan	€12.00m	Arsenal	FC Barcelona	11	131
+165007	18/19	Loan fee:	€12.00m	FC Barcelona	Arsenal	131	11
+165007	16/17	€3.25m	€12.00m	Villarreal	FC Barcelona	1050	131
+165007	15/16	€4.00m	€12.00m	FC Barcelona	Villarreal	131	1050
+165007	15/16	End of loan	€12.00m	Sevilla FC	FC Barcelona	368	131
+165007	14/15	Loan	€3.50m	FC Barcelona	Sevilla FC	131	368
+165007	14/15	-	€3.50m	FC Barcelona B	FC Barcelona	2464	131
+165007	13/14	€1.50m	€1.00m	Man City U21	FC Barcelona B	9265	2464
+165007	12/13	-	-	Man City U18	Man City U21	6930	9265
+165007	11/12	€1.00m	-	Celta U19	Man City U18	15509	6930
+165007	10/11	-	-	Celta Vigo Yout	Celta U19	40419	15509
+323704	19/20	€40.00m	€40.00m	FC Barcelona	Zenit S-Pb	131	964
+323704	18/19	€41.00m	€45.00m	G. Bordeaux	FC Barcelona	40	131
+323704	15/16	€5.00m	€10.00m	Corinthians	G. Bordeaux	199	40
+323704	13/14	-	-	Corinthians U20	Corinthians	14876	199
+146227	19/20	€35.00m	€18.00m	FC Barcelona	Valencia	131	1049
+146227	16/17	€13.00m	€12.00m	Ajax	FC Barcelona	610	131
+146227	11/12	€3.23m	€1.25m	NEC Nijmegen	Ajax	467	610
+146227	10/11	-	-	NEC U21	NEC Nijmegen	11154	467
+146227	08/09	-	-	NEC U19	NEC U21	7463	11154
+146227	06/07	-	-	NEC U17	NEC U19	43843	7463
+146227	04/05	-	-	NEC Youth	NEC U17	32800	43843
+146227	01/02	Free transfer	-	De Treffers Yth	NEC Youth	53543	32800
+80444	19/20	End of loan	€56.00m	Bayern Munich 	FC Barcelona	27	131
+80444	19/20	Loan fee:	€90.00m	FC Barcelona	Bayern Munich 	131	27
+80444	17/18	€145.00m	€90.00m	Liverpool	FC Barcelona	31	131
+80444	12/13	€13.00m	€9.00m	Inter	Liverpool	46	31
+80444	11/12	End of loan	€7.00m	Espanyol	Inter	714	46
+80444	11/12	Loan	€8.00m	Inter	Espanyol	46	714
+80444	09/10	End of loan	€2.50m	Vasco da Gama	Inter	978	46
+80444	08/09	Loan	-	Inter	Vasco da Gama	46	978
+80444	08/09	€3.80m	-	Vasco U17	Inter	15036	46
+605184	19/20	End of loan	€9.00m	FC Schalke 04	FC Barcelona	33	131
+605184	19/20	Loan fee:	€10.00m	FC Barcelona	FC Schalke 04	131	33
+605184	18/19	€1.00m	€8.00m	Toulouse	FC Barcelona	415	131
+605184	18/19	-	-	Toulouse B	Toulouse	9371	415
+605184	17/18	-	-	FC Toulouse U19	Toulouse B	9372	9371
+605184	16/17	?	-	FC Les Lilas 93	FC Toulouse U19	9581	9372
+129473	19/20	End of loan	€9.50m	Celta de Vigo	FC Barcelona	940	131
+129473	19/20	Loan fee:	€15.00m	FC Barcelona	Celta de Vigo	131	940
+129473	17/18	End of loan	€28.00m	Inter	FC Barcelona	46	131
+129473	17/18	Loan	€15.00m	FC Barcelona	Inter	131	46
+129473	13/14	End of loan	€7.50m	Celta de Vigo	FC Barcelona	940	131
+129473	13/14	Loan	€7.50m	FC Barcelona	Celta de Vigo	131	940
+129473	13/14	-	€7.50m	FC Barcelona B	FC Barcelona	2464	131
+129473	10/11	-	-	Barça U19	FC Barcelona B	2470	2464
+129473	09/10	-	-	Barça U16	Barça U19	14321	2470
+129473	07/08	-	-	Barcelona Yth.	Barça U16	70295	14321
+15904	19/20	Free transfer	€2.50m	FC Barcelona	Vissel Kobe	131	3958
+15904	16/17	End of loan	€3.00m	AS Roma	FC Barcelona	12	131
+15904	16/17	Loan	€4.00m	FC Barcelona	AS Roma	131	12
+15904	14/15	€19.00m	€15.00m	Arsenal	FC Barcelona	11	131
+15904	09/10	€12.00m	€6.00m	Ajax	Arsenal	610	11
+15904	04/05	End of loan	€250Th.	RKC Waalwijk	Ajax	235	610
+15904	04/05	Loan	-	Ajax	RKC Waalwijk	610	235
+15904	03/04	-	-	Ajax U19	Ajax	2824	610
+284854	19/20	End of loan	€18.00m	Real Betis	FC Barcelona	150	131
+284854	19/20	Loan	€20.00m	FC Barcelona	Real Betis	131	150
+284854	18/19	-	€10.00m	FC Barcelona B	FC Barcelona	2464	131
+284854	16/17	-	-	Barça U19	FC Barcelona B	2470	2464
+284854	15/16	-	-	Barça U18	Barça U19	39813	2470
+284854	14/15	-	-	Barça U16	Barça U18	14321	39813
+284854	13/14	-	-	Barcelona Yth.	Barça U16	70295	14321
+131102	19/20	End of loan	€6.50m	Celta de Vigo	Sampdoria	940	1038
+131102	19/20	Loan	€8.00m	Sampdoria	Celta de Vigo	1038	940
+131102	19/20	€12.00m	€8.00m	Valencia	Sampdoria	1049	1038
+131102	19/20	End of loan	€8.00m	Sampdoria	Valencia	1038	1049
+131102	19/20	Loan fee:	€10.00m	Valencia	Sampdoria	1049	1038
+131102	18/19	End of loan	€10.00m	FC Barcelona	Valencia	131	1049
+131102	18/19	Loan fee:	€15.00m	Valencia	FC Barcelona	1049	131
+131102	18/19	€12.00m	€15.00m	Inter	Valencia	46	1049
+131102	17/18	End of loan	€15.00m	Valencia	Inter	1049	46
+131102	17/18	Loan fee:	€13.00m	Inter	Valencia	46	1049
+131102	15/16	€8.00m	€8.00m	Granada CF	Inter	16795	46
+131102	12/13	End of loan	€1.00m	UD Las Palmas	Granada CF	472	16795
+131102	12/13	Loan	-	Granada CF	UD Las Palmas	16795	472
+131102	11/12	End of loan	-	Cádiz CF	Granada CF	2687	16795
+131102	11/12	Loan	-	Granada CF	Cádiz CF	16795	2687
+131102	10/11	?	-	Depor Aguablanca FC	Granada CF	28834	16795
+131102	09/10	?	-	Deportivo Cali	Depor Aguablanca FC	9961	28834
+131102	09/10	-	-	Dep. Cali U20	Deportivo Cali	20589	9961
+16922	19/20	End of loan	€3.20m	Besiktas	Fiorentina	114	430
+16922	19/20	Loan	€4.00m	Fiorentina	Besiktas	430	114
+16922	19/20	€1.50m	€7.00m	Sassuolo	Fiorentina	6574	430
+16922	18/19	End of loan	€7.00m	FC Barcelona	Sassuolo	131	6574
+16922	18/19	Loan fee:	€8.00m	Sassuolo	FC Barcelona	6574	131
+16922	18/19	Free transfer	€7.00m	E. Frankfurt	Sassuolo	24	6574
+16922	17/18	Free transfer	€5.00m	UD Las Palmas	E. Frankfurt	472	24
+16922	16/17	Free transfer	€1.00m	AC Milan	UD Las Palmas	5	472
+16922	15/16	-	€3.00m	Without Club	AC Milan	515	5
+16922	15/16	-	€3.00m	FC Schalke 04	Without Club	33	515
+16922	13/14	€10.00m	€15.00m	AC Milan	FC Schalke 04	5	33
+16922	11/12	€7.50m	€15.00m	Genoa	AC Milan	252	5
+16922	10/11	End of loan	€15.00m	AC Milan	Genoa	5	252
+16922	10/11	Loan fee:	€6.00m	Genoa	AC Milan	252	5
+16922	10/11	€5.70m	€4.00m	Portsmouth	Genoa	1020	252
+16922	09/10	€4.50m	€3.00m	Spurs	Portsmouth	148	1020
+16922	08/09	End of loan	€3.00m	Bor. Dortmund	Spurs	16	148
+16922	08/09	Loan fee:	€3.50m	Spurs	Bor. Dortmund	148	16
+16922	07/08	€7.90m	€4.00m	Hertha BSC	Spurs	44	148
+16922	05/06	-	€250Th.	Hertha BSC II	Hertha BSC	45	44
+16922	04/05	-	-	Hertha BSC U19	Hertha BSC II	2827	45
+16922	03/04	-	-	Hertha BSC Yth.	Hertha BSC U19	11844	2827
+16922	96/97	Free transfer	-	Füchse Yth.	Hertha BSC Yth.	34328	11844
+16922	95/96	Free transfer	-	Hertha BSC Yth.	Füchse Yth.	11844	34328
+16922	94/95	Free transfer	-	Füchse Yth.	Hertha BSC Yth.	34328	11844

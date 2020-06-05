@@ -1,0 +1,3 @@
+Name	Id	Birth Date	Birth Place	Nationality	Coaching License	Preferred Formation	img
+Hans Dieter Flick	67	None	Heidelberg	Germany	None	None	https://tmssl.akamaized.net/images/portrait/header/67-1570372694.jpg?lm=1570372716
+Lucien Favre	535	None	Saint-Barthélemy	Switzerland	None	None	https://tmssl.akamaized.net/images/portrait/header/535-1566475978.jpg?lm=1566476006

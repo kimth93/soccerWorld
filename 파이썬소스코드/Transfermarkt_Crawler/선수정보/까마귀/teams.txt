@@ -1,0 +1,2 @@
+Name	Squad Id	Season	Manager	Manager Id	Income	Expend.	Titles
+FC Barcelona	131	2019	['Quique Setién']	['12440']	€158.90m	€273.00m	Spanish Cup winner 

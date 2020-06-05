@@ -1,0 +1,33 @@
+Manager Id	Team	Id	Appointed	Contract	Position	\# Matches	Points Per Match
+434	Jeonbuk Hyundai Motors	{'6502'}	18/19 (Jan 1, 2019)	20/21 (Dec 31, 2020)	Manager	51	1.96
+434	Karpaty Lviv	{'2477'}	18/19 (Aug 16, 2018)	18/19 (Nov 28, 2018)	Manager	14	1.29
+434	Barnsley FC	{'349'}	17/18 (Feb 16, 2018)	17/18 (May 6, 2018)	Manager	15	0.87
+434	AEK Athens	{'2441'}	16/17 (Oct 18, 2016)	16/17 (Jan 18, 2017)	Manager	14	1.21
+434	Antalyaspor	{'589'}	15/16 (Jan 6, 2016)	16/17 (Oct 6, 2016)	Manager	25	1.20
+434	Chelsea FC	{'631'}	15/16 (Jul 20, 2015)	15/16 (Dec 17, 2015)	Assistant Manager	-	0.00
+434	Esperance Tunis	{'3342'}	14/15 (Feb 8, 2015)	14/15 (Jun 1, 2015)	Manager	19	2.32
+434	Al-Shabab Riyadh	{'9840'}	13/14 (Jun 6, 2014)	14/15 (Oct 15, 2014)	Manager	7	2.29
+434	Chelsea FC	{'631'}	12/13 (Jun 3, 2013)	13/14 (Jun 5, 2014)	Assistant Manager	-	0.00
+434	Real Madrid	{'418'}	10/11 (Jul 1, 2010)	12/13 (Jun 2, 2013)	Assistant Manager	-	0.00
+434	FC Internazionale	{'46'}	09/10 (Jul 1, 2009)	09/10 (May 28, 2010)	Assistant Manager	-	0.00
+434	Esperance Tunis	{'3342'}	08/09 (Nov 17, 2008)	08/09 (Mar 8, 2009)	Manager	12	1.92
+434	Yemen	{'15922'}	08/09 (Sep 1, 2008)	08/09 (Nov 16, 2008)	Manager	-	0.00
+434	Stade Tunisien	{'4812'}	08/09 (Jul 1, 2008)	08/09 (Aug 25, 2008)	Manager	2	2.00
+434	Al-Hazm	{'9131'}	07/08 (Jul 20, 2007)	07/08 (May 31, 2008)	Manager	-	0.00
+434	Assyriska FF	{'4380'}	04/05 (Jan 25, 2005)	04/05 (Jun 30, 2005)	Manager	-	0.00
+434	CD Santa Clara	{'2423'}	04/05 (Jul 10, 2004)	04/05 (Nov 13, 2004)	Manager	-	0.00
+434	Académico Viseu FC	{'7788'}	03/04 (Oct 13, 2003)	03/04 (Jul 9, 2004)	Manager	-	0.00
+434	FC Porto	{'720'}	03/04 (Jul 1, 2003)	03/04 (Jun 30, 2004)	Assistant Manager	-	0.00
+434	Dresdner SC	{'98'}	02/03 (Jan 20, 2003)	02/03 (Jun 30, 2003)	Manager	14	1.07
+434	SC Westfalia Herne	{'387'}	01/02 (Apr 27, 2002)	02/03 (Aug 20, 2002)	Manager	6	1.33
+434	Estoril Praia	{'1465'}	01/02 (Jul 1, 2001)	01/02 (Nov 26, 2001)	Manager	-	0.00
+434	SL Benfica B	{'10330'}	99/00 (Nov 27, 1999)	00/01 (Jun 30, 2001)	Manager	-	0.00
+49420	Ulsan Hyundai	{'3535'}	16/17 (Nov 21, 2016)	expected31.12.2020	Manager	155	1.79
+49420	Incheon United	{'2996'}	14/15 (Jan 13, 2015)	16/17 (Sep 30, 2016)	Manager	69	1.32
+49420	South Korea U20	{'22983'}	13/14 (Jan 1, 2014)	14/15 (Dec 31, 2014)	Assistant Manager	-	0.00
+49420	Gangwon FC	{'21459'}	12/13 (Jan 1, 2013)	13/14 (Dec 31, 2013)	Assistant Manager	-	0.00
+49420	Seongnam Ilhwa Chunma	{'3610'}	04/05 (Jan 1, 2005)	12/13 (Dec 31, 2012)	Assistant Manager	-	0.00
+19256	FC Seoul	{'6500'}	18/19 (Oct 18, 2018)	expected-	Manager	53	1.45
+19256	Jiangsu Suning	{'22219'}	16/17 (Jul 1, 2016)	16/17 (Jun 1, 2017)	Manager	42	1.55
+19256	FC Seoul	{'6500'}	10/11 (Apr 27, 2011)	15/16 (Jun 30, 2016)	Manager	266	1.83
+19256	FC Seoul	{'6500'}	06/07 (Jan 1, 2007)	10/11 (Apr 26, 2011)	Assistant Manager	-	0.00
